@@ -21,8 +21,6 @@ redirect_from:
 
 Qianxin Qu is an researcher and current Research Assistant at <a href="http://www.svm.tsinghua.edu.cn/"> the School of Vehicle and Mobility</a>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, under the mentorship of Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Xinyu Zhang</a>. He earned his B.Eng in Computer Science and Technology from <a href="https://www.cumtb.edu.cn/">China University of Mining and Technology (CUMTB)</a> in 2019, where he was guided by Prof. <a href="https://ai.cumtb.edu.cn/info/1053/1134.htm">Jiajing Li</a>. Further enhancing his research credentials, Qianxin participated in joint training with <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a> from 2022 to 2023.
 
-My research interests primarily focus on data association in images and point clouds, with a main emphasis on visual positioning and multi-sensor calibration.
-
 His research interests primarily focus on sensor fusion, particularly within the realms of images and point clouds. He specializes in multi-sensor calibration and visual positioning, aiming to advance the field through innovative methodologies and keen insights.
 
 Qianxin is actively seeking opportunities to further his academic pursuits and is currently exploring MPhil and PhD programs where he can contribute to and expand his research on data fusion technologies and their applications in intelligent systems.
