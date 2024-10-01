@@ -17,42 +17,66 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Qianxin Qu is an AI researcher currently serving as a research assistant in <a href="http://www.svm.tsinghua.edu.cn/"> the School of Vehicle and Mobility</a>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, supervised by Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Xinyu Zhang</a>. He received his B.S. degree from <a href="https://www.cumtb.edu.cn/">CUMTB</a> in 2019, supervised by Prof. <a href="https://ai.cumtb.edu.cn/info/1053/1134.htm">Jiajing Li</a>, joint trained with Tsinghua Univerisity from 2022 to 2023.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests primarily focus on data association in images and point clouds, with a main emphasis on visual positioning and multi-sensor calibration.
+
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.08*: &nbsp;🎉🎉 Our work "GF-SLAM: A Novel Hybrid Localization Method Incorporating Global and Arc Features" is accepted by TASE.
+- *2024.06*: &nbsp;🎉🎉 Our work "V2I-Calib: A Novel Calibration Approach for Collaborative Vehicle and Infrastructure LiDAR Systems" is accepted by IROS 2024.
+- *2023.11*: &nbsp;🎉🎉 Our work "Automated Extrinsic Calibration  of Multi-Cameras and LiDAR" is accepted by TIM.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/IROS2024_V2I-CALIB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+<b> V2I-Calib: A Novel Calibration Approach for Collaborative Vehicle and Infrastructure LiDAR Systems </b>
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Qianxin Qu**, Yijin Xiong , Guipeng Zhang , Xin Wu , Xiaohan Gao , Xin Gao , Hanyu Li , Shichun Guo , Guoying Zhang  
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<a href="https://arxiv.org/abs/2407.10195">[Paper]</a> <a href="https://github.com/MassimoQu/v2i-calib">[Code]</a> <a href="https://mp.weixin.qq.com/s?search_click_id=2428615448500534455-1727774148445-8298043828&__biz=MzkyMDY0OTc1NA==&mid=2247504642&idx=1&sn=5e8e8f523c59fc69bf997fa4d99b8897&chksm=c0cebdfa1d2adf1bb12c4a4806f62e77c9e81423bee9d0726d95003f5c9f57a08b1b22944373&scene=7&subscene=10000&sessionid=1727767087&clicktime=1727774148&enterid=1727774148&ascene=65&fasttmpl_type=0&fasttmpl_fullversion=7404782-en_US-zip&fasttmpl_flag=0&realreporttime=1727774148463&devicetype=android-34&version=28003337&nettype=3gnet&abtest_cookie=AAACAA%3D%3D&lang=en&countrycode=IT&exportkey=n_ChQIAhIQOf1YI7b%2BnFnQn0bb%2Fz%2B%2B4xLfAQIE97dBBAEAAAAAAK6AKbESUMEAAAAOpnltbLcz9gKNyK89dVj0PhCrrft%2BplkV1nNAvevodERZfCUl1%2Fb4M2DDiZD%2FbFVoZegjV4q%2FDtLGSxD356hm284NbUCDDnGQLomN2VVb7NDh9nFtDUxc1HK49ZQ8Hu8Tt25eKvwfVm2Wo%2BD1OCMS%2FexqYgoqy7MI%2Bn9cGyonbnsPt5sBU9cTjqu0L5GwQ1XE9nVqSDWJXBOrEAPh2oxNMo0%2FPD8JlPaXFIl5fO%2F6m45NUNx05YrM6xkf0LuFo0f%2BY9rwabhb3Dw%3D&pass_ticket=d19o4MvXBDDn6peTtEFxPIxAp6v3oFFS%2FUdTdsUkXZPfGJXKz%2FFaO%2FmHzyq%2FcRAy&wx_header=3">[Blog]</a> <a href="">[BibTex]</a> 
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIM 2023</div><img src='images/TIM2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<b> Automated Extrinsic Calibration  of Multi-Cameras and LiDAR </b>
 
-# 📖 Educations
+**Qianxin Qu**, Yijin Xiong , Guipeng Zhang , Xin Wu , Xiaohan Gao , Xin Gao , Hanyu Li , Shichun Guo , Guoying Zhang  
+
+<a href="https://ieeexplore.ieee.org/document/10352967">[Paper]</a> <a href="https://github.com/MassimoQu/Implement-of-the-paper-Automated-Extrinsic-Calibration-of-Multi-cameras-and-LiDAR-TIM2023-">[Code]</a> <a href="">[Blog]</a> <a href="">[BibTex]</a> 
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASE 2024</div><img src='images/TASE2024_GF-SLAM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b> GF-SLAM: A Novel Hybrid Localization Method Incorporating Global and Arc Features </b>
+
+ Yijin Xiong, Xinyu Zhang, Wenju Gao, Yuchao Wang, Jing Liu, **Qianxin Qu**, Shichun Guo, Yang Shen, Jun Li
+
+**Qianxin Qu**, Yijin Xiong , Guipeng Zhang , Xin Wu , Xiaohan Gao , Xin Gao , Hanyu Li , Shichun Guo , Guoying Zhang  
+
+<a href="https://ieeexplore.ieee.org/abstract/document/10691946">[Paper]</a> <a href="">[Code]</a> <a href="">[Blog]</a> <a href="">[BibTex]</a> 
+
+</div>
+</div>
+
+
+
+<!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.09 - 2023.06*, 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
