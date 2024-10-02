@@ -23,7 +23,7 @@ Qianxin Qu is an researcher and current Research Assistant at <a href="http://ww
 
 His research interests primarily focus on sensor fusion, particularly within the realms of images and point clouds. He specializes in multi-sensor calibration and visual positioning, aiming to advance the field through innovative methodologies and keen insights.
 
-Qianxin is actively seeking opportunities to further his academic pursuits and is currently exploring MPhil and PhD programs where he can contribute to and expand his research on data fusion technologies and their applications in intelligent systems.
+Qianxin is actively seeking opportunities to further his academic pursuits and is currently exploring MPhil/PhD programs where he can contribute to and expand his research on data fusion technologies and their applications in intelligent systems.
 
 
 # 🔥 News
@@ -73,11 +73,30 @@ Xinyu Zhang, Yijin Xiong†, **Qianxin Qu**, Shifan Zhu, Shichun Guo, Dafeng Jin
 </div>
 
 
+</div>
+</div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/arxiv2024_survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b> Cooperative Visual-LiDAR Extrinsic Calibration Technology for Intersection Vehicle-Infrastructure: A review </b>
+
+  Xinyu Zhang, Yijin Xiong†, **Qianxin Qu**, Renjie Wang, Xin Gao, Jing Liu, Shichun Guo, Jun Li
+
+<a href="https://arxiv.org/abs/2405.10132">[Paper]</a> 
+
+</div>
+</div>
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2019.09 - 2023.06*, 
 
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+<!-- # 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. --> -->
+
+<footer>
+  <p style="font-size: small; text-align: center;">Last updated on: {{ site.time | date: "%Y-%m-%d" }}</p>
+</footer>
+
