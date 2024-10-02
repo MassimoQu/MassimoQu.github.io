@@ -73,10 +73,6 @@ Xinyu Zhang, Yijin Xiong†, **Qianxin Qu**, Shifan Zhu, Shichun Guo, Dafeng Jin
 </div>
 
 
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/arxiv2024_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -88,13 +84,14 @@ Xinyu Zhang, Yijin Xiong†, **Qianxin Qu**, Shifan Zhu, Shichun Guo, Dafeng Jin
 
 </div>
 </div>
+
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2019.09 - 2023.06*, 
 
 
 <!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. --> -->
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. --> 
 
 <footer>
   <p style="font-size: small; text-align: center;">Last updated on: {{ site.time | date: "%Y-%m-%d" }}</p>
