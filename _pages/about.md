@@ -101,7 +101,7 @@ arXiv preprint, 2024
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. --> 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?cl=ffffff&w=280&t=n&d=jd_2WhYJ2igXcCghIx7Djyi4Puoie_IuT4K7SfCT6z8&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?cl=ffffff&w=280&t=n&d=jd_2WhYJ2igXcCghIx7Djyi4Puoie_IuT4K7SfCT6z8"></script>
 
 <footer>
   <p style="font-size: small; text-align: center;">Last updated on: {{ site.time | date: "%Y-%m-%d" }}</p>
