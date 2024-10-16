@@ -27,11 +27,26 @@ Qianxin is actively seeking opportunities to further his academic pursuits and i
 
 
 # 🔥 News
-- *2024.08*: &nbsp;🎉🎉 Our work "GF-SLAM: A Novel Hybrid Localization Method Incorporating Global and Arc Features" is accepted by TASE.
-- *2024.06*: &nbsp;🎉🎉 Our work "V2I-Calib: A Novel Calibration Approach for Collaborative Vehicle and Infrastructure LiDAR Systems" is accepted by IROS 2024.
-- *2023.11*: &nbsp;🎉🎉 Our work "Automated Extrinsic Calibration  of Multi-Cameras and LiDAR" is accepted by TIM.
+- *2024.10*: &nbsp;🎉🎉 Our paper "V2I-Calib++: A Multi-terminal Spatial Calibration Approach in Urban Intersections for Collaborative Perception" is now available on arXiv.
+- *2024.08*: &nbsp;🎉🎉 Our paper "GF-SLAM: A Novel Hybrid Localization Method Incorporating Global and Arc Features" is accepted by TASE.
+- *2024.06*: &nbsp;🎉🎉 Our paper "V2I-Calib: A Novel Calibration Approach for Collaborative Vehicle and Infrastructure LiDAR Systems" is accepted by IROS 2024.
+- *2023.11*: &nbsp;🎉🎉 Our paper "Automated Extrinsic Calibration  of Multi-Cameras and LiDAR" is accepted by TIM.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/V2I-CALIB++_workflow.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b> V2I-Calib++: A Multi-terminal Spatial Calibration Approach in Urban Intersections for Collaborative Perception </b>
+
+**Qianxin Qu**, Xinyu Zhang†, Yijin Xiong, Shichun Guo, Ziqiang Song, Jun Li
+
+arXiv preprint, 2024
+
+<a href="https://arxiv.org/abs/2410.11008">[Paper]</a> <a href="https://github.com/MassimoQu/v2i-calib">[Code]</a>
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/IROS2024_V2I-CALIB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
