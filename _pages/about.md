@@ -39,7 +39,7 @@ Qianxin is actively seeking opportunities to further his academic pursuits and i
 
 <b> V2I-Calib++: A Multi-terminal Spatial Calibration Approach in Urban Intersections for Collaborative Perception </b>
 
-**Qianxin Qu**, Xinyu Zhang†, Yijin Xiong, Shichun Guo, Ziqiang Song, Jun Li
+**Qianxin Qu**, Yijin Xiong, Xinyu Zhang†, Shichun Guo, Ziqiang Song, Jun Li
 
 arXiv preprint, 2024
 
