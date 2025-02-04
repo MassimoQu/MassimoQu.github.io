@@ -27,7 +27,7 @@ Qianxin is actively seeking opportunities to further his academic pursuits and i
 
 
 # 🔥 News
-- *2024.10*: Our paper "V2I-Calib++: A Multi-terminal Spatial Calibration Approach in Urban Intersections for Collaborative Perception" is now available on arXiv.
+- *2024.10*: &nbsp;🎉 Our paper "V2I-Calib++: A Multi-terminal Spatial Calibration Approach in Urban Intersections for Collaborative Perception" is now available on arXiv.
 - *2024.08*: &nbsp;🎉🎉 Our paper "GF-SLAM: A Novel Hybrid Localization Method Incorporating Global and Arc Features" is accepted by TASE.
 - *2024.06*: &nbsp;🎉🎉 Our paper "V2I-Calib: A Novel Calibration Approach for Collaborative Vehicle and Infrastructure LiDAR Systems" is accepted by IROS 2024.
 - *2023.11*: &nbsp;🎉🎉 Our paper "Automated Extrinsic Calibration  of Multi-Cameras and LiDAR" is accepted by TIM.
@@ -45,7 +45,7 @@ Under Second-Round Revision for IEEE Transactions on Intelligent Transportation 
 
 
 
-<a href="https://arxiv.org/abs/2410.11008">[Paper]</a> | <a href="https://github.com/MassimoQu/v2i-calib">[Code]</a><a href="https://github.com/MassimoQu/v2i-calib">[Code]</a> <img src="https://img.shields.io/github/stars/MassimoQu/v2i-calib?style=social" alt="" /> 
+<a href="https://arxiv.org/abs/2410.11008">[Paper]</a>  <a href="https://github.com/MassimoQu/v2i-calib"><img src="https://img.shields.io/github/stars/MassimoQu/v2i-calib?style=social" alt="" /> </a> 
 
 </div>
 </div>
@@ -59,7 +59,7 @@ Under Second-Round Revision for IEEE Transactions on Intelligent Transportation 
 
 IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS), 2024
 
-<a href="https://arxiv.org/abs/2407.10195">[Paper]</a> | <a href="https://github.com/MassimoQu/v2i-calib">[Code]</a> <img src="https://img.shields.io/github/stars/MassimoQu/v2i-calib?style=social" alt="" /> | <a href="https://mp.weixin.qq.com/s?search_click_id=2428615448500534455-1727774148445-8298043828&__biz=MzkyMDY0OTc1NA==&mid=2247504642&idx=1&sn=5e8e8f523c59fc69bf997fa4d99b8897&chksm=c0cebdfa1d2adf1bb12c4a4806f62e77c9e81423bee9d0726d95003f5c9f57a08b1b22944373&scene=7&subscene=10000&sessionid=1727767087&clicktime=1727774148&enterid=1727774148&ascene=65&fasttmpl_type=0&fasttmpl_fullversion=7404782-en_US-zip&fasttmpl_flag=0&realreporttime=1727774148463&devicetype=android-34&version=28003337&nettype=3gnet&abtest_cookie=AAACAA%3D%3D&lang=en&countrycode=IT&exportkey=n_ChQIAhIQOf1YI7b%2BnFnQn0bb%2Fz%2B%2B4xLfAQIE97dBBAEAAAAAAK6AKbESUMEAAAAOpnltbLcz9gKNyK89dVj0PhCrrft%2BplkV1nNAvevodERZfCUl1%2Fb4M2DDiZD%2FbFVoZegjV4q%2FDtLGSxD356hm284NbUCDDnGQLomN2VVb7NDh9nFtDUxc1HK49ZQ8Hu8Tt25eKvwfVm2Wo%2BD1OCMS%2FexqYgoqy7MI%2Bn9cGyonbnsPt5sBU9cTjqu0L5GwQ1XE9nVqSDWJXBOrEAPh2oxNMo0%2FPD8JlPaXFIl5fO%2F6m45NUNx05YrM6xkf0LuFo0f%2BY9rwabhb3Dw%3D&pass_ticket=d19o4MvXBDDn6peTtEFxPIxAp6v3oFFS%2FUdTdsUkXZPfGJXKz%2FFaO%2FmHzyq%2FcRAy&wx_header=3">[Blog]</a> 
+<a href="https://arxiv.org/abs/2407.10195">[Paper]</a>  <a href="https://github.com/MassimoQu/v2i-calib"><img src="https://img.shields.io/github/stars/MassimoQu/v2i-calib?style=social" alt="" /> </a>  <a href="https://mp.weixin.qq.com/s?search_click_id=2428615448500534455-1727774148445-8298043828&__biz=MzkyMDY0OTc1NA==&mid=2247504642&idx=1&sn=5e8e8f523c59fc69bf997fa4d99b8897&chksm=c0cebdfa1d2adf1bb12c4a4806f62e77c9e81423bee9d0726d95003f5c9f57a08b1b22944373&scene=7&subscene=10000&sessionid=1727767087&clicktime=1727774148&enterid=1727774148&ascene=65&fasttmpl_type=0&fasttmpl_fullversion=7404782-en_US-zip&fasttmpl_flag=0&realreporttime=1727774148463&devicetype=android-34&version=28003337&nettype=3gnet&abtest_cookie=AAACAA%3D%3D&lang=en&countrycode=IT&exportkey=n_ChQIAhIQOf1YI7b%2BnFnQn0bb%2Fz%2B%2B4xLfAQIE97dBBAEAAAAAAK6AKbESUMEAAAAOpnltbLcz9gKNyK89dVj0PhCrrft%2BplkV1nNAvevodERZfCUl1%2Fb4M2DDiZD%2FbFVoZegjV4q%2FDtLGSxD356hm284NbUCDDnGQLomN2VVb7NDh9nFtDUxc1HK49ZQ8Hu8Tt25eKvwfVm2Wo%2BD1OCMS%2FexqYgoqy7MI%2Bn9cGyonbnsPt5sBU9cTjqu0L5GwQ1XE9nVqSDWJXBOrEAPh2oxNMo0%2FPD8JlPaXFIl5fO%2F6m45NUNx05YrM6xkf0LuFo0f%2BY9rwabhb3Dw%3D&pass_ticket=d19o4MvXBDDn6peTtEFxPIxAp6v3oFFS%2FUdTdsUkXZPfGJXKz%2FFaO%2FmHzyq%2FcRAy&wx_header=3">[Blog]</a> 
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
@@ -73,9 +73,9 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS), 2024
 
 Xinyu Zhang, Yijin Xiong†, **Qianxin Qu**, Shifan Zhu, Shichun Guo, Dafeng Jin, Guoying Zhang, Haibing Ren, Jun Li
 
-IEEE Transactions on Instrumentation and Measurement(TIM, JCR Q1, IF:5.6, Student First Author)), 2023
+IEEE Transactions on Instrumentation and Measurement (TIM, JCR Q1, IF:5.6, Student First Author), 2023
 
-<a href="https://ieeexplore.ieee.org/document/10352967">[Paper]</a> | <a href="https://github.com/TH-Lion/Line-based-Automatic-Calibration-of-LiDAR-and-Cameras">[Code]</a> <img src="https://img.shields.io/github/stars/TH-Lion/Line-based-Automatic-Calibration-of-LiDAR-and-Cameras?style=social" alt="" /> 
+<a href="https://ieeexplore.ieee.org/document/10352967">[Paper]</a>  <a href="https://github.com/TH-Lion/Line-based-Automatic-Calibration-of-LiDAR-and-Cameras"><img src="https://img.shields.io/github/stars/TH-Lion/Line-based-Automatic-Calibration-of-LiDAR-and-Cameras?style=social" alt="" /> </a>  
 
 </div>
 </div>
