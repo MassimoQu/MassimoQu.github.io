@@ -21,28 +21,29 @@ redirect_from:
 
 Qianxin Qu is an researcher and current Research Assistant at <a href="http://www.svm.tsinghua.edu.cn/"> the School of Vehicle and Mobility</a>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, under the mentorship of Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Xinyu Zhang</a> and Prof. <a href="https://www.tsinghua.edu.cn/info/1166/93890.htm">Jun Li</a>. He earned his B.Eng in Computer Science and Technology from <a href="https://www.cumtb.edu.cn/">China University of Mining and Technology (CUMTB)</a> in 2023, where he was guided by Prof. <a href="https://ai.cumtb.edu.cn/info/1053/1134.htm">Jiajing Li</a>. Further enhancing his research credentials, Qianxin participated in joint training with <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a> from 2023 to 2024.
 
-His research focuses on sensor fusion methodologies with emphasis on data consistency assurance for intelligent transportation systems. Specializing in multi-sensor calibration, his current investigations center on dynamic alignment challenges in vehicle-to-everything (V2X) environments. 
+His research focuses on sensor fusion methodologies with emphasis on data consistency assurance for intelligent transportation systems. Ultimately, he seeks to pioneer a new paradigm for data alignment in multi-sensor fusion.
 
 Qianxin is actively seeking opportunities to further his academic pursuits and is currently exploring MPhil/PhD programs where he can contribute to and expand his research on data consistency technologies and their applications in intelligent systems.
 
 
 # 🔥 News
-- *2025.5*: &nbsp;🎉🎉 Our survey paper "Cooperative Visual-LiDAR Extrinsic Calibration Technology for Intersection Vehicle-Infrastructure: A review" is accepted by IEEE Internet of Things Journal(IoTJ, CAS Q1 top, JCR Q1, IF:8.2).
-- *2024.10*: &nbsp;🎉 Our paper "V2I-Calib++: A Multi-terminal Spatial Calibration Approach in Urban Intersections for Collaborative Perception" is now available on arXiv.
+- *2025.07*: &nbsp;🎉🎉 Our paper "V2I-Calib++: A Multi-terminal Spatial
+Calibration Approach in Urban Intersections for Collaborative Perception" has been accepted by IEEE Transactions on Intelligent Transportation Systems (TITS, CAS Q1 top, JCR Q1, IF:8.4).
+- *2025.05*: &nbsp;🎉🎉 Our survey paper "Cooperative Visual-LiDAR Extrinsic Calibration Technology for Intersection Vehicle-Infrastructure: A review" is accepted by IEEE Internet of Things Journal(IoTJ, CAS Q1 top, JCR Q1, IF:8.9).
 - *2024.08*: &nbsp;🎉🎉 Our paper "GF-SLAM: A Novel Hybrid Localization Method Incorporating Global and Arc Features" is accepted by IEEE Transactions on Automation Science and Engineering(TASE, CAS Q2 top, JCR Q1, IF=5.9).
 - *2024.06*: &nbsp;🎉🎉 Our paper "V2I-Calib: A Novel Calibration Approach for Collaborative Vehicle and Infrastructure LiDAR Systems" is accepted by IROS 2024.
-- *2023.11*: &nbsp;🎉🎉 Our paper "Automated Extrinsic Calibration  of Multi-Cameras and LiDAR" is accepted by IEEE Transactions on Instrumentation and Measurement (TIM, CAS Q2 top, JCR Q1, IF:5.6).
+- *2023.11*: &nbsp;🎉🎉 Our paper "Automated Extrinsic Calibration  of Multi-Cameras and LiDAR" has been accepted by IEEE Transactions on Instrumentation and Measurement (TIM, CAS Q2 top, JCR Q1, IF:5.9).
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2024</div><img src='images/TITS-V2ICALIB++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2025</div><img src='images/TITS-V2ICALIB++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b> V2I-Calib++: A Multi-terminal Spatial Calibration Approach in Urban Intersections for Collaborative Perception </b>
 
-**Qianxin Qu**, Yijin Xiong, Xinyu Zhang†, Chen Xia, Qian Peng, Ziqiang Song, Kang Liu, Xin Wu, Jun Li
+**Qianxin Qu**\*, Xinyu Zhang\*, Yijin Xiong†, Chen Xia, Ziqiang Song, Qian Peng, Kang Liu, Jun Li
 
-Under Third-Round Revision for IEEE Transactions on Intelligent Transportation Systems(TITS, CAS Q1 top, JCR Q1, IF:7.9)
+Accepted by IEEE Transactions on Intelligent Transportation Systems(TITS, CAS Q1 top, JCR Q1, IF:8.4)
 
 
 <a href="https://arxiv.org/abs/2410.11008">[Paper]</a>  <a href="https://github.com/MassimoQu/v2i-calib"><img src="https://img.shields.io/github/stars/MassimoQu/v2i-calib?style=social" alt="" /> </a> 
@@ -72,7 +73,7 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS), 2024
 
 <b> Cooperative Visual-LiDAR Extrinsic Calibration Technology for Intersection Vehicle-Infrastructure: A review </b>
 
-Xinyu Zhang, Yijin Xiong†, **Qianxin Qu**, Renjie Wang, Xin Gao, Jing Liu, Shichun Guo, Jun Li
+Yijin Xiong, Xinyu Zhang†, **Qianxin Qu**, Renjie Wang, Xin Gao, Jing Liu, Shichun Guo, Jun Li
 
 Accepted by IEEE Internet of Things Journal(IoTJ, CAS Q1 top, JCR Q1, IF:8.2, Student First Author), 2025
 
@@ -89,7 +90,7 @@ Accepted by IEEE Internet of Things Journal(IoTJ, CAS Q1 top, JCR Q1, IF:8.2, St
 
 Xinyu Zhang, Yijin Xiong†, **Qianxin Qu**, Shifan Zhu, Shichun Guo, Dafeng Jin, Guoying Zhang, Haibing Ren, Jun Li
 
-IEEE Transactions on Instrumentation and Measurement (TIM, CAS Q2 top, JCR Q1, IF:5.6, Student First Author), 2023
+IEEE Transactions on Instrumentation and Measurement (TIM, CAS Q2 top, JCR Q1, IF:5.9, Student First Author), 2023
 
 <a href="https://ieeexplore.ieee.org/document/10352967">[Paper]</a>  <a href="https://github.com/TH-Lion/Line-based-Automatic-Calibration-of-LiDAR-and-Cameras"><img src="https://img.shields.io/github/stars/TH-Lion/Line-based-Automatic-Calibration-of-LiDAR-and-Cameras?style=social" alt="" /> </a>  
 
@@ -104,7 +105,7 @@ IEEE Transactions on Instrumentation and Measurement (TIM, CAS Q2 top, JCR Q1, I
 
 Yijin Xiong, Xinyu Zhang†, Wenju Gao, Yuchao Wang, Jing Liu, **Qianxin Qu**, Shichun Guo, Yang Shen, Jun Li
 
-IEEE Transactions on Automation Science and Engineering(TASE, JCR Q1, IF=5.9), 2024
+IEEE Transactions on Automation Science and Engineering(TASE, CAS Q2 top, JCR Q1, IF=5.9), 2024
 
 <a href="https://ieeexplore.ieee.org/abstract/document/10691946">[Paper]</a> 
 
