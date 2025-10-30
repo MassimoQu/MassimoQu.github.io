@@ -31,11 +31,12 @@ I am actively seeking exploring MPhil/PhD programs to further my research on Lar
 
 - 3D computer vision: Registration/Calibration, Perception, SLAM.
 - Autonomous Driving: Scene Understanding for V2X; End-to-End Driving.
-- Application of MLLMs & VLA: Cooperative Perception, Scene Understanding, End-to-End Driving, Robot Manipulation.
+- Application of MLLMs & VLA: Scene Understanding, End-to-End Driving, Robot Manipulation.
 
 ### Overview
 
-<div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.95em;">
+<!-- <div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.95em;"> -->
+<div style="color: dimgray; font-size: 0.8em; font-style: italic; margin-top: 0.25em; margin-bottom: 0.9em;">
 The following overview frames my research from a specific perspective on 3D computer vision and its application to spatial intelligence in autonomous systems. This categorization is based on my personal understanding of the field's trajectory and may differ from conventional views. I welcome any discussion, differing perspectives, or collaboration!
 </div>
 
@@ -47,23 +48,23 @@ In this evolution, the boundary between data alignment and data fusion is blurri
 
 #### 1. Explicit Alignment
 
-Explicit Alignment refers to classical, often upstream, tasks where alignment is the direct and primary objective. The most typical examples are sensor spatio-temporal calibration and data registration. A early portion of my published work, such as our Camera-LiDARs Calibration research (T-IM 2023), falls into this category.
+Explicit Alignment refers to classical, often upstream, tasks where alignment is the direct and primary objective. The most typical examples are sensor spatio-temporal calibration and data registration. A early portion of my published work, such as our Camera-LiDARs Calibration research (<a href="#pub-tim2023">T-IM 2023</a>), falls into this category.
 
-My primary focus is on the new challenges that arise as autonomous systems evolve from single-agent intelligence to multi-agent cooperative systems (e.g., V2X in intelligent transportation). My representative publications (IROS 2024, T-ITS 2025, and our IoT-J survey) all investigate the unique data consistency problems in these emerging multi-agent scenarios. 
+My primary focus is on the new challenges that arise as autonomous systems evolve from single-agent intelligence to multi-agent cooperative systems (e.g., V2X in intelligent transportation). My representative publications (<a href="#pub-iros2024">IROS 2024</a>, <a href="#pub-tits2025">T-ITS 2025</a>, and our <a href="#pub-iotj2025">IoT-J survey</a>) all investigate the unique data consistency problems in these emerging multi-agent scenarios. 
 
-Another major class of explicit alignment is map-based localization, including SLAM, which is fundamentally a geometric matching and alignment task. I have also contributed to this area (T-ASE 2024).
+Another major class of explicit alignment is map-based localization, including SLAM, which is fundamentally a geometric matching and alignment task. I have also contributed to this area (<a href="#pub-tase2024">T-ASE 2024</a>).
 
 #### 2. Implicit Alignment
 
-Implicit Alignment is a concept based on my personal observations of current trends. I have observed that while multi-agent cooperative perception models are affected by data alignment accuracy, many new methods demonstrate robustness to alignment errors. This seems to reduce the pressure on upstream alignment, but I argue that these models are absorbing part of the alignment task, performing compensatory alignment within their intermediate feature layers. This reflects a subtle but significant shift in functional responsibility in the era of end-to-end models. My work under review (CoSTr) explores this path by optimizing alignment at the sparse feature level.
+Implicit Alignment is a concept based on my personal observations of current trends. I have observed that while multi-agent cooperative perception models are affected by data alignment accuracy, many new methods demonstrate robustness to alignment errors. This seems to reduce the pressure on upstream alignment, but I argue that these models are absorbing part of the alignment task, performing compensatory alignment within their intermediate feature layers. This reflects a subtle but significant shift in functional responsibility in the era of end-to-end models. My work under review (<a href="#pub-costr">CoSTr</a>) explores this path by optimizing alignment at the sparse feature level.
 
 Furthermore, this concept of implicit alignment can be observed at even later stages, which I am currently investigating along three lines:
 
-* MLLM-based Scene Understanding: I have observed surprising and promising capabilities of large models in handling alignment, as seen in the experiments of my ongoing paper (WAMoE3D). This will be a major focus of my future work.
+* MLLM-based Scene Understanding: I have observed surprising and promising capabilities of large models in handling alignment, as seen in the experiments of my ongoing paper (<a href="#pub-wamoe3d">WAMoE3D</a>). This will be a major focus of my future work.
 
-* Pose-Free 3D Foundation Model: The development of pose-free 3D foundation models(like VGGT) offers new insights into how systems can learn to align data without explicit pose information, which is also what I'm currently investigating.
+* Pose-Free 3D Foundation Model: The development of pose-free 3D foundation models offers new insights into how systems can learn to align data without explicit pose information, which is also what I'm currently investigating.
 
-* End-to-End Driving: I am exploring how tasks further downstream, such as end-to-end driving or planning (UniMM-V2X), react to the quality of upstream data alignment, which helps quantify the impact of both explicit and implicit alignment on final system performance.
+* End-to-End Driving: I am exploring how tasks further downstream, such as end-to-end driving or planning (<a href="#pub-unimmv2x">UniMM-V2X</a>), react to the quality of upstream data alignment, which helps quantify the impact of both explicit and implicit alignment on final system performance.
 
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 Our paper "V2X-Reg++: A Real-time Global Registration Method for Multi-End Sensing System in Urban Intersections" has been accepted by IEEE T-ITS (JCR Q1, IF:8.4).
@@ -74,7 +75,7 @@ Furthermore, this concept of implicit alignment can be observed at even later st
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ITS 2025</div><img src='images/TITS-V2ICALIB++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' id='pub-tits2025'><div class='paper-box-image'><div><div class="badge">T-ITS 2025</div><img src='images/TITS-V2ICALIB++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p style="font-weight: bold; margin-bottom: 0.25em;"> V2X-Reg++: A Real-time Global Registration Method for Multi-End Sensing System in Urban Intersections </p>
@@ -82,7 +83,7 @@ Furthermore, this concept of implicit alignment can be observed at even later st
 
 <!-- **Qianxin Qu**\*, Xinyu Zhang\*, Yijin Xiong†, Chen Xia, Ziqiang Song, Qian Peng, Kang Liu, Jun Li -->
 
-Accepted by IEEE Transactions on Intelligent Transportation Systems(T-ITS, CAS Q1 top, JCR Q1, IF:8.4)
+Accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS, JCR Q1, IF:8.4)
 
 
 <a href="https://arxiv.org/abs/2410.11008"><img src="https://img.shields.io/badge/arXiv-2410.11008-b31b1b?logo=arxiv" alt="arXiv" /></a>  <a href="https://github.com/MassimoQu/v2i-calib"><img src="https://img.shields.io/github/stars/MassimoQu/v2i-calib?style=social" alt="" /> </a> 
@@ -95,7 +96,7 @@ Accepted by IEEE Transactions on Intelligent Transportation Systems(T-ITS, CAS Q
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024 oral</div><img src='images/IROS2024_V2I-CALIB.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' id='pub-iros2024'><div class='paper-box-image'><div><div class="badge">IROS 2024 oral</div><img src='images/IROS2024_V2I-CALIB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p style="font-weight: bold; margin-bottom: 0.25em;"> V2I-Calib: A Novel Calibration Approach for Collaborative Vehicle and Infrastructure LiDAR Systems </p>
@@ -116,7 +117,7 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS), 2024
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoT-J 2025</div><img src='images/arxiv2024_survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' id='pub-iotj2025'><div class='paper-box-image'><div><div class="badge">IoT-J 2025</div><img src='images/arxiv2024_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p style="font-weight: bold; margin-bottom: 0.25em;"> Cooperative Visual-LiDAR Extrinsic Calibration Technology for Intersection Vehicle-Infrastructure: A review  </p>
@@ -134,7 +135,7 @@ Note: This survey was initiated by <a href="https://scholar.google.com/citations
 </div>
 
 
-IEEE Internet of Things Journal, 2025 (IoT-J, CAS Q1 top, JCR Q1, IF:8.9, Student First Author)
+IEEE Internet of Things Journal, 2025 (IoT-J, JCR Q1, IF:8.9, Student First Author)
 
 <a href="https://arxiv.org/abs/2405.10132"><img src="https://img.shields.io/badge/arXiv-2405.10132-b31b1b?logo=arxiv" alt="arXiv" /></a> <a href="https://ieeexplore.ieee.org/abstract/document/10993426/"><img src="https://img.shields.io/badge/IEEE-Paper-blue?logo=ieee"></a> 
 
@@ -146,7 +147,7 @@ IEEE Internet of Things Journal, 2025 (IoT-J, CAS Q1 top, JCR Q1, IF:8.9, Studen
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-IM 2023</div><img src='images/TIM2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box' id='pub-tim2023'><div class='paper-box-image'><div><div class="badge">T-IM 2023</div><img src='images/TIM2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p style="font-weight: bold; margin-bottom: 0.25em;"> Automated Extrinsic Calibration of Multi-Cameras and LiDAR </p>
@@ -159,7 +160,7 @@ IEEE Internet of Things Journal, 2025 (IoT-J, CAS Q1 top, JCR Q1, IF:8.9, Studen
 Note: This research was initiated by <a href="https://scholar.google.com/citations?user=myxo9mQAAAAJ">Dr. Yijin Xiong</a> under the auspices of <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Prof. Xinyu Zhang</a>. It served as my undergraduate thesis and I was responsible for algorithm implementation, improvement, and coordinating this real-world experiment.
 </div>
 
-IEEE Transactions on Instrumentation and Measurement, 2023 (T-IM, CAS Q2 top, JCR Q1, IF:5.9, Student First Author)
+IEEE Transactions on Instrumentation and Measurement, 2023 (T-IM, JCR Q1, IF:5.9, Student First Author)
 
 <a href="assets/TechnicalReport_AutomaticOnlineCalibrationTechnologyBasedonMonocularCameraand3DLiDAR.pdf"><img src="https://img.shields.io/badge/CN-TechnicalReport-purple"/></a> <a href="https://ieeexplore.ieee.org/document/10352967"><img src="https://img.shields.io/badge/IEEE-Paper-blue?logo=paper"/></a> <a href="https://github.com/TH-Lion/Line-based-Automatic-Calibration-of-LiDAR-and-Cameras"><img src="https://img.shields.io/github/stars/TH-Lion/Line-based-Automatic-Calibration-of-LiDAR-and-Cameras?style=social" alt="" /> </a>  
 
@@ -171,7 +172,7 @@ IEEE Transactions on Instrumentation and Measurement, 2023 (T-IM, CAS Q2 top, JC
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ASE 2024</div><img src='images/TASE2024_GFSLAM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' id='pub-tase2024'><div class='paper-box-image'><div><div class="badge">T-ASE 2024</div><img src='images/TASE2024_GFSLAM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p style="font-weight: bold; margin-bottom: 0.25em;"> GF-SLAM: A Novel Hybrid Localization Method Incorporating Global and Arc Features </p>
@@ -186,7 +187,7 @@ Yijin Xiong, Xinyu Zhang†, Wenju Gao, Jing Liu, <strong>Qianxin Qu</strong>, S
 *Note: This research was initiated by <a href="https://scholar.google.com/citations?user=myxo9mQAAAAJ">Dr. Yijin Xiong</a> under the auspices of <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Prof. Xinyu Zhang</a>. I was responsible for algorithm implementation and coordinating its real-world experiment.*
 </div>
 
-IEEE Transactions on Automation Science and Engineering, 2024(T-ASE, CAS Q2 top, JCR Q1, IF=6.4)
+IEEE Transactions on Automation Science and Engineering, 2024(T-ASE, JCR Q1, IF=6.4)
 
 <a href="https://ieeexplore.ieee.org/abstract/document/10691946"><img src="https://img.shields.io/badge/IEEE-Paper-blue?logo=paper"/></a> 
 
@@ -201,7 +202,7 @@ IEEE Transactions on Automation Science and Engineering, 2024(T-ASE, CAS Q2 top,
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ICRA2026_CoSTr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' id='pub-costr'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ICRA2026_CoSTr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p style="font-weight: bold;  margin-bottom: 0.9em;"> CoSTr: a Fully Sparse Transformer with Mutual Information for Pragmatic Collaborative Perception </p>
@@ -219,7 +220,7 @@ IEEE Transactions on Automation Science and Engineering, 2024(T-ASE, CAS Q2 top,
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/AAAI26_UniMM-V2X.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' id='pub-unimmv2x'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/AAAI26_UniMM-V2X.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p style="font-weight: bold; margin-bottom: 0.9em;"> UniMM-V2X: MoE-Enhanced Multi-Level Fusion for End-to-End Cooperative Autonomous Driving  </p>
@@ -231,7 +232,7 @@ IEEE Transactions on Automation Science and Engineering, 2024(T-ASE, CAS Q2 top,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ParallelismTraining.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' id='pub-parallel'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ParallelismTraining.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p style="font-weight: bold; margin-bottom: 0.9em;"> A Survey on Hybrid Parallelism Techniques for Large Model Training </p>
@@ -244,7 +245,7 @@ IEEE Transactions on Automation Science and Engineering, 2024(T-ASE, CAS Q2 top,
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/WAMoE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' id='pub-wamoe3d'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/WAMoE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p style="font-weight: bold; margin-bottom: 0.9em;"> WAMoE3D: Weather-aware Mixture-of-Experts for MLLM-based 3D Scene Understanding in Autonomous Driving </p>
