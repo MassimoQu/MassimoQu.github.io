@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qianxin Qu - 瞿签新"
-description              : ""
+description              : "RA@Tsinghua University | 3D Computer Vision | Autonomous Driving | MLLM/VLA | Robotics"
 repository               : "MassimoQu/qqx.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Qianxin Qu"
-  avatar           : "images/qqx_2024_xian_talk.jpg"
+  avatar           : "images/qqx_2025_suit_gemini.png"
   bio              : ""
   location         : "Beijing, China"
   employer         :
