@@ -130,7 +130,7 @@ Contributions of Authors: This work is initially led by <a href="https://scholar
 </div> -->
 
 <div style="color: dimgray; font-size: 0.8em; font-style: italic; margin-top: 0.25em; margin-bottom: 0.9em;">
-*Note: This survey was initiated by <a href="https://scholar.google.com/citations?user=myxo9mQAAAAJ">Dr. Yijin Xiong</a> under the auspices of <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Prof. Xinyu Zhang</a>. My primary contribution was developing the main chapter on V2X calibration and its novel thesis: "spatial alignment" from downstream cooperative perception can be regarded as implicit calibration. The final author order (from 3rd on ArXiv submission) was adjusted post-acceptance.*
+Note: This survey was initiated by <a href="https://scholar.google.com/citations?user=myxo9mQAAAAJ">Dr. Yijin Xiong</a> under the auspices of <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Prof. Xinyu Zhang</a>. My primary contribution was developing the main chapter on V2X calibration and its novel thesis: "spatial alignment" from downstream cooperative perception can be regarded as implicit calibration. The final author order (from 3rd on ArXiv submission) was adjusted post-acceptance.
 </div>
 
 
@@ -156,7 +156,7 @@ IEEE Internet of Things Journal, 2025 (IoT-J, CAS Q1 top, JCR Q1, IF:8.9, Studen
 <!-- Xinyu Zhang, Yijin Xiong†, **Qianxin Qu**, Shifan Zhu, Shichun Guo, Dafeng Jin, Guoying Zhang, Haibing Ren, Jun Li -->
 
 <div style="color: dimgray; font-size: 0.8em; font-style: italic; margin-top: 0.25em; margin-bottom: 0.9em;">
-*Note: This research was initiated by <a href="https://scholar.google.com/citations?user=myxo9mQAAAAJ">Dr. Yijin Xiong</a> under the auspices of <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Prof. Xinyu Zhang</a>. It served as my undergraduate thesis and I was responsible for algorithm implementation, improvement, and coordinating this real-world experiment.*
+Note: This research was initiated by <a href="https://scholar.google.com/citations?user=myxo9mQAAAAJ">Dr. Yijin Xiong</a> under the auspices of <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Prof. Xinyu Zhang</a>. It served as my undergraduate thesis and I was responsible for algorithm implementation, improvement, and coordinating this real-world experiment.
 </div>
 
 IEEE Transactions on Instrumentation and Measurement, 2023 (T-IM, CAS Q2 top, JCR Q1, IF:5.9, Student First Author)
@@ -236,7 +236,7 @@ IEEE Transactions on Automation Science and Engineering, 2024(T-ASE, CAS Q2 top,
 
 <p style="font-weight: bold; margin-bottom: 0.9em;"> A Survey on Hybrid Parallelism Techniques for Large Model Training </p>
 
-<a href="assets/withAppendix_UniMM-V2X_MoE-EnhancedMulti-LevelFusionforEnd-to-EndCooperativeAutonomousDriving.pdf"><img src="https://img.shields.io/badge/arXiv-PDF-b31b1b?logo=arxiv" alt="arXiv" /></a>
+<a href="assets/LLM_mixed_parallel_training.pdf"><img src="https://img.shields.io/badge/arXiv-PDF-b31b1b?logo=arxiv" alt="arXiv" /></a>
 
 *tl;dr:* As traditional parallelism fails for massive Transformers , this survey reviews hybrid strategies (DP, TP, PP, SP, EP). We introduce a unified framework based on operator partitioning to analyze these methods and the evolution of automatic parallelism search.
 
