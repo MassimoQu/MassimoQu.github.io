@@ -30,7 +30,7 @@ I am actively seeking exploring MPhil/PhD programs to further my research on Lar
 ### tl;dr
 
 - 3D computer vision: Registration/Calibration, Perception, SLAM.
-- Autonomous Driving: Scene Understanding for V2X; End-to-End Driving.
+- Autonomous Driving: Cooperative Perception, V2X, End-to-End Driving.
 - Application of MLLMs & VLA: Scene Understanding, End-to-End Driving, Robot Manipulation.
 
 ### Overview
@@ -137,7 +137,7 @@ Note: This survey was initiated by <a href="https://scholar.google.com/citations
 
 IEEE Internet of Things Journal, 2025 (IoT-J, JCR Q1, IF:8.9, Student First Author)
 
-<a href="https://arxiv.org/abs/2405.10132"><img src="https://img.shields.io/badge/arXiv-2405.10132-b31b1b?logo=arxiv" alt="arXiv" /></a> <a href="https://ieeexplore.ieee.org/abstract/document/10993426/"><img src="https://img.shields.io/badge/IEEE-Paper-blue?logo=ieee"></a> 
+<a href="https://arxiv.org/abs/2405.10132"><img src="https://img.shields.io/badge/arXiv-2405.10132-b31b1b?logo=arxiv" alt="arXiv" /></a> <a href="https://ieeexplore.ieee.org/abstract/document/10993426/"><img src="https://img.shields.io/badge/IEEE-Paper-blue"></a> 
 
 *tl;dr:* This survey systematically organizes the evolution of sensor calibration from single-vehicle to cooperative intelligence.
 
