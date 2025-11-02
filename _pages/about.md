@@ -259,7 +259,7 @@ IEEE Transactions on Automation Science and Engineering, 2024(T-ASE, JCR Q1, IF=
 <p style="font-weight: bold; margin-bottom: 0.9em;"> WAMoE3D: Weather-aware Mixture-of-Experts for MLLM-based 3D Scene Understanding in Autonomous Driving </p>
 
 <div style="color: dimgray; font-size: 0.8em; font-style: italic; margin-top: 0.25em; margin-bottom: 0.9em;">
-*Note: My primary contribution was proposing the core WAMoE adaptive fusion framework, designing its mechanism to dynamically fuse camera, LiDAR, and radar features, and utilizing LoRA for fine-tuning.*
+*Note: My contributions to this project include researching and draft the related work chapter on MLLM-based scene understanding, assisting with the benchmark creation (including annotation specifications, LLM pre-annotation, and SOTA model evaluation), and proposing the core WAMoE adaptive fusion framework.*
 </div>
 
 *tl;dr:* To address the sharp performance drop of MLLMs in adverse weather, we built a VQA dataset and benchmark for traffic scene understanding based on the <a href="https://arxiv.org/pdf/2310.07602">Dual-Radar</a> dataset. We then proposed an adaptive fusion framework for the LLaMA architecture, utilizing a Weather-aware Mixture-of-Experts (WAMoE) module to dynamically fuse camera, LiDAR, and radar features, coupled with LoRA-based fine-tuning to enhance perception and reasoning capabilities in adverse weather.
