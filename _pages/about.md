@@ -19,9 +19,9 @@ redirect_from:
 
 # 🥋 About me
 
-I am a researcher and current Research Assistant at <a href="http://www.svm.tsinghua.edu.cn/"> the School of Vehicle and Mobility</a>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, under the mentorship of Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Xinyu Zhang</a> and Prof. <a href="https://www.tsinghua.edu.cn/info/1166/93890.htm">Jun Li</a>. I earned my B.Eng in Computer Science and Technology from <a href="https://www.cumtb.edu.cn/">China University of Mining and Technology (CUMTB)</a> in 2023, where I was guided by Prof. <a href="https://ai.cumtb.edu.cn/info/1053/1134.htm">Jiajing Li</a>. Further enhancing my research credentials, I participated in joint training with <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a> from 2023 to 2024.
+I am a current Research Assistant at <a href="http://www.svm.tsinghua.edu.cn/"> the School of Vehicle and Mobility</a>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, under the mentorship of Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Xinyu Zhang</a> and Prof. <a href="https://www.tsinghua.edu.cn/info/1166/93890.htm">Jun Li</a>. I earned my B.Eng in Computer Science and Technology from <a href="https://www.cumtb.edu.cn/">China University of Mining and Technology (CUMTB)</a> in 2023, where I was guided by Prof. <a href="https://ai.cumtb.edu.cn/info/1053/1134.htm">Jiajing Li</a>. Further enhancing my research credentials, I participated in joint training with <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a> from 2023 to 2024.
 
-My research focuses on 3D computer vision and its application to spatial intelligence in autonomous systems, centered on the core challenge of data consistency (or alignment). Previously, my work focused on the foundational challenge of Spatio-Temporal Alignment for the V2X sensing systems. Recently, I'm actively explore the potential of Large Foundation Model (LFM) and Multi-Modal Large Language Models (MLLM) for this field.
+My research focuses on 3D computer vision and its application to spatial intelligence in autonomous systems, centered on the core challenge of data consistency (or alignment). Previously, my work focused on the foundational challenge of Spatio-Temporal Alignment for the Vehicle-to-Everything (V2X) sensing systems. Recently, I'm actively explore the potential of Large Foundation Model (LFM) and Multi-Modal Large Language Models (MLLM) for this field.
 
 I am actively seeking exploring MPhil/PhD programs to further my research on Large Model technologies and their applications in autonomous systems——any opportunities or referrals would be greatly appreciated! Please feel free to reach out!
 
@@ -29,15 +29,15 @@ I am actively seeking exploring MPhil/PhD programs to further my research on Lar
 
 ### tl;dr
 
-- 3D computer vision: Registration/Calibration, Perception, SLAM.
-- Autonomous Driving: Cooperative Perception, V2X, End-to-End Driving.
+- 3D computer vision: Registration/Calibration, Perception, SLAM;
+- Autonomous Driving: Cooperative Perception, V2X, End-to-End Driving;
 - Application of MLLMs & VLA: Scene Understanding, End-to-End Driving, Robot Manipulation.
 
 ### Overview
 
 <!-- <div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.95em;"> -->
 <div style="color: dimgray; font-size: 0.8em; font-style: italic; margin-top: 0.25em; margin-bottom: 0.9em;">
-The following overview frames my research from a specific perspective on 3D computer vision and its application to spatial intelligence in autonomous systems. This categorization is based on my personal understanding of the field's trajectory and may differ from conventional views. I welcome any discussion, differing perspectives, or collaboration!
+The following overview frames my research from a specific perspective on 3D computer vision and its application to spatial intelligence in autonomous systems. This categorization is based on my personal understanding of the field's trajectory and may differ from conventional views. If differing perspectives, I welcome any discussion!
 </div>
 
 My research vision is to enable autonomous systems, such as self-driving vehicles, with robust Spatial Intelligence. Within this broad domain, I focus on the data consistency or the data alignment problem arising from heterogeneous data inputs (e.g., images, point clouds).
@@ -86,7 +86,7 @@ Accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS, JCR 
 
 <a href="https://arxiv.org/abs/2410.11008"><img src="https://img.shields.io/badge/arXiv-2410.11008-b31b1b?logo=arxiv" alt="arXiv" /></a>  <a href="https://github.com/MassimoQu/v2i-calib"><img src="https://img.shields.io/github/stars/MassimoQu/v2i-calib?style=social" alt="" /> </a> 
 
-*tl;dr:* We argue that current spatial alignment methods, which require an initial pose, are impractical for real-world V2X cooperative perception. To address this limitation, we propose an online global registration algorithm that uses perception priors to align heterogeneous sensors in real-time.
+*tl;dr:* We argue that current spatial alignment methods, which require an initial pose, are impractical for real-world Vehicle-to-Everything (V2X) cooperative perception. To address this limitation, we propose an online global registration algorithm that uses perception priors to align heterogeneous sensors in real-time.
 
 </div>
 </div>
@@ -176,7 +176,7 @@ Yijin Xiong, Xinyu Zhang†, Wenju Gao, Jing Liu, <strong style="color: black; t
 <!-- Yijin Xiong, Xinyu Zhang†, Wenju Gao, Yuchao Wang, Jing Liu, **Qianxin Qu**, Shichun Guo, Yang Shen, Jun Li -->
 
 <div style="color: dimgray; font-size: 0.8em; font-style: italic; margin-top: 0.25em; margin-bottom: 0.9em;">
-*Note: This research was initiated by <a href="https://scholar.google.com/citations?user=myxo9mQAAAAJ">Dr. Yijin Xiong</a> under the auspices of <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Prof. Xinyu Zhang</a>. I was responsible for algorithm implementation and coordinating its real-world experiment.*
+Note: This research was initiated by <a href="https://scholar.google.com/citations?user=myxo9mQAAAAJ">Dr. Yijin Xiong</a> under the auspices of <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Prof. Xinyu Zhang</a>. I was responsible for algorithm implementation and coordinating its real-world experiment.
 </div>
 
 IEEE Transactions on Automation Science and Engineering, 2024(T-ASE, JCR Q1, IF=6.4)
@@ -192,8 +192,6 @@ IEEE Transactions on Automation Science and Engineering, 2024(T-ASE, JCR Q1, IF=
 
 ### Under Review
 
-
-
 <div class='paper-box' id='pub-costr'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ICRA2026_CoSTr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -202,7 +200,7 @@ IEEE Transactions on Automation Science and Engineering, 2024(T-ASE, JCR Q1, IF=
 <!-- <div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.25em;"> <strong style="color: black;">Qianxin Qu</strong>, Chen Xia, Ziyi Song, Guipeng Zhang, Sheng Zhou†, Zhisheng Niu. </div> -->
 
 <div style="color: dimgray; font-size: 0.8em; font-style: italic; margin-top: 0.25em; margin-bottom: 0.9em;">
-*Note: As the primary contributor, I proposed the core framework, led the experimental validation, and authored the manuscript.*
+Note: As the primary contributor, I proposed the core framework, led the experimental validation, and authored the manuscript.
 </div>
 
 <!-- Under Review for ICRA 2026 -->
@@ -224,7 +222,7 @@ IEEE Transactions on Automation Science and Engineering, 2024(T-ASE, JCR Q1, IF=
 <!-- <div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.25em;"> Ziyi Song, Chen Xia, <strong style="color: black;">Qianxin Qu</strong>, Hao Yu, Sheng Zhou†, Zhisheng Niu. </div> -->
 
 <div style="color: dimgray; font-size: 0.8em; font-style: italic; margin-top: 0.25em; margin-bottom: 0.9em;">
-*Note: I contributed the core idea of integrating the Mixture-of-Experts (MoE) architecture and assisted with its implementation, experimental validation, and baseline comparisons.*
+Note: I contributed the core idea of integrating the Mixture-of-Experts (MoE) architecture and assisted with its implementation, experimental validation, and baseline comparisons.
 </div>
 
 <a href="assets/withAppendix_UniMM-V2X_MoE-EnhancedMulti-LevelFusionforEnd-to-EndCooperativeAutonomousDriving.pdf"><img src="https://img.shields.io/badge/arXiv-PDF-b31b1b?logo=arxiv" alt="arXiv" /></a>
@@ -242,7 +240,7 @@ IEEE Transactions on Automation Science and Engineering, 2024(T-ASE, JCR Q1, IF=
 <!-- <div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.25em;"> Guipeng Zhang, <strong style="color: black;">Qianxin Qu</strong>, Yuzhong Sun†. </div> -->
 
 <div style="color: dimgray; font-size: 0.8em; font-style: italic; margin-top: 0.25em; margin-bottom: 0.9em;">
-*Note: My primary responsibility was the comprehensive research and writing of Chapter 3 (Evolution of Hybrid Parallelism), and I also contributed to discussions on the mathematical abstractions and future work sections.*
+Note: My primary responsibility was the comprehensive research and writing of Chapter 3 (Evolution of Hybrid Parallelism), and I also contributed to discussions on the mathematical abstractions and future work sections.
 </div>
 
 <a href="assets/LLM_mixed_parallel_training.pdf"><img src="https://img.shields.io/badge/arXiv-PDF-b31b1b?logo=arxiv" alt="arXiv" /></a>
@@ -259,7 +257,7 @@ IEEE Transactions on Automation Science and Engineering, 2024(T-ASE, JCR Q1, IF=
 <p style="font-weight: bold; margin-bottom: 0.9em;"> WAMoE3D: Weather-aware Mixture-of-Experts for MLLM-based 3D Scene Understanding in Autonomous Driving </p>
 
 <div style="color: dimgray; font-size: 0.8em; font-style: italic; margin-top: 0.25em; margin-bottom: 0.9em;">
-*Note: My contributions to this project include researching and draft the related work chapter on MLLM-based scene understanding, assisting with the benchmark creation (including annotation specifications, LLM pre-annotation, and SOTA model evaluation), and proposing the core WAMoE adaptive fusion framework.*
+Note: My contributions to this project include researching and draft the related work chapter on MLLM-based scene understanding, assisting with the benchmark creation (including annotation specifications, LLM pre-annotation, and SOTA model evaluation), and proposing the core WAMoE adaptive fusion framework.
 </div>
 
 *tl;dr:* To address the sharp performance drop of MLLMs in adverse weather, we built a VQA dataset and benchmark for traffic scene understanding based on the <a href="https://arxiv.org/pdf/2310.07602">Dual-Radar</a> dataset. We then proposed an adaptive fusion framework for the LLaMA architecture, utilizing a Weather-aware Mixture-of-Experts (WAMoE) module to dynamically fuse camera, LiDAR, and radar features, coupled with LoRA-based fine-tuning to enhance perception and reasoning capabilities in adverse weather.
