@@ -77,7 +77,7 @@ Furthermore, this concept of implicit alignment can be observed at even later st
 <div class='paper-box-text' markdown="1">
 
 <p style="font-weight: bold; margin-bottom: 0.25em;"> V2X-Reg++: A Real-time Global Registration Method for Multi-End Sensing System in Urban Intersections </p>
-<div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.9em;"> <strong style="color: black; text-decoration: underline;">Qianxin Qu</strong>*, Xinyu Zhang*, Yijin Xiong†*, Chen Xia, Ziqiang Song, Qian Peng, Kang Liu, Jun Li </div>
+<div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.9em;"> <strong style="color: black; text-decoration: underline;">Qianxin Qu</strong>*, Xinyu Zhang*†, Yijin Xiong*, Chen Xia, Ziqiang Song, Qian Peng, Kang Liu, Jun Li </div>
 
 <!-- **Qianxin Qu**\*, Xinyu Zhang\*, Yijin Xiong†, Chen Xia, Ziqiang Song, Qian Peng, Kang Liu, Jun Li -->
 
