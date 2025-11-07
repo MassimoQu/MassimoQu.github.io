@@ -77,7 +77,7 @@ Furthermore, this concept of implicit alignment can be observed at even later st
 <div class='paper-box-text' markdown="1">
 
 <p style="font-weight: bold; margin-bottom: 0.25em;"> V2X-Reg++: A Real-time Global Registration Method for Multi-End Sensing System in Urban Intersections </p>
-<div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.9em;"> <strong style="color: black; text-decoration: underline;">Qianxin Qu</strong>*, Xinyu Zhang*†, Yijin Xiong*, Chen Xia, Ziqiang Song, Qian Peng, Kang Liu, Jun Li </div>
+<div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.9em;"> <strong style="color: black; text-decoration: underline;">Qianxin Qu</strong>*, <strong>Xinyu Zhang*†, Yijin Xiong*</strong>, Chen Xia, Ziqiang Song, Qian Peng, Kang Liu, Jun Li </div>
 
 <!-- **Qianxin Qu**\*, Xinyu Zhang\*, Yijin Xiong†, Chen Xia, Ziqiang Song, Qian Peng, Kang Liu, Jun Li -->
 
@@ -99,7 +99,7 @@ Accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS, JCR 
 
 <p style="font-weight: bold; margin-bottom: 0.25em;"> V2I-Calib: A Novel Calibration Approach for Collaborative Vehicle and Infrastructure LiDAR Systems </p>
 
-<div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.9em;"><strong style="color: black; text-decoration: underline;">Qianxin Qu</strong>*, Yijin Xiong*, Guipeng Zhang, Xin Wu, Xiaohan Gao, Xin Gao, Hanyu Li, Shichun Guo, Guoying Zhang†</div>
+<div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.9em;"><strong style="color: black; text-decoration: underline;">Qianxin Qu</strong>*, <strong>Yijin Xiong*</strong>, Guipeng Zhang, Xin Wu, Xiaohan Gao, Xin Gao, Hanyu Li, Shichun Guo, <strong>Guoying Zhang†</strong></div>
 
 <!-- **Qianxin Qu**\*, Yijin Xiong\*, Guipeng Zhang, Xin Wu, Xiaohan Gao, Xin Gao, Hanyu Li, Shichun Guo, Guoying Zhang† -->
 
@@ -120,7 +120,7 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS), 2024
 
 <p style="font-weight: bold; margin-bottom: 0.25em;"> Cooperative Visual-LiDAR Extrinsic Calibration Technology for Intersection Vehicle-Infrastructure: A review  </p>
 
-<div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.25em;"> Yijin Xiong, Xinyu Zhang†, Xin Gao, <strong style="color: black; text-decoration: underline;">Qianxin Qu</strong>, Chun Duan, Renjie Wang, Jing Liu, Jun Li </div>
+<div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.25em;"> <strong>Yijin Xiong, Xinyu Zhang†</strong>, Xin Gao, <strong style="color: black; text-decoration: underline;">Qianxin Qu</strong>, Chun Duan, Renjie Wang, Jing Liu, Jun Li </div>
 
 <div style="color: dimgray; font-size: 0.8em; font-style: italic; margin-top: 0.25em; margin-bottom: 0.9em;">
 Note: This survey was initiated by <a href="https://scholar.google.com/citations?user=myxo9mQAAAAJ">Dr. Yijin Xiong</a> under the auspices of <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Prof. Xinyu Zhang</a>. My primary contribution was developing the main chapter on V2X calibration and its novel thesis: "spatial alignment" from downstream cooperative perception can be regarded as implicit calibration. The final author order (from 3rd on ArXiv submission) was adjusted post-acceptance.
@@ -144,7 +144,7 @@ IEEE Internet of Things Journal, 2025 (IoT-J, JCR Q1, IF:8.9, Student First Auth
 
 <p style="font-weight: bold; margin-bottom: 0.25em;"> Automated Extrinsic Calibration of Multi-Cameras and LiDAR </p>
 
-<div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.25em;">Xinyu Zhang, Yijin Xiong†, <strong style="color: black; text-decoration: underline;">Qianxin Qu</strong>, Shifan Zhu, Shichun Guo, Dafeng Jin, Guoying Zhang, Haibing Ren, Jun Li</div>
+<div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.25em;"> <strong>Xinyu Zhang, Yijin Xiong†</strong>, <strong style="color: black; text-decoration: underline;">Qianxin Qu</strong>, Shifan Zhu, Shichun Guo, Dafeng Jin, Guoying Zhang, Haibing Ren, Jun Li</div>
 
 <!-- Xinyu Zhang, Yijin Xiong†, **Qianxin Qu**, Shifan Zhu, Shichun Guo, Dafeng Jin, Guoying Zhang, Haibing Ren, Jun Li -->
 
@@ -170,7 +170,7 @@ IEEE Transactions on Instrumentation and Measurement, 2023 (T-IM, JCR Q1, IF:5.9
 <p style="font-weight: bold; margin-bottom: 0.25em;"> GF-SLAM: A Novel Hybrid Localization Method Incorporating Global and Arc Features </p>
 
 <div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.25em;">
-Yijin Xiong, Xinyu Zhang†, Wenju Gao, Jing Liu, <strong style="color: black; text-decoration: underline;">Qianxin Qu</strong>, Shichun Guo, Yang Shen, Jun Li
+<strong>Yijin Xiong, Xinyu Zhang†</strong>, Wenju Gao, Jing Liu, <strong style="color: black; text-decoration: underline;">Qianxin Qu</strong>, Shichun Guo, Yang Shen, Jun Li
 </div>
 
 <!-- Yijin Xiong, Xinyu Zhang†, Wenju Gao, Yuchao Wang, Jing Liu, **Qianxin Qu**, Shichun Guo, Yang Shen, Jun Li -->
