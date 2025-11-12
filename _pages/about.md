@@ -77,14 +77,16 @@ Furthermore, this concept of implicit alignment can be observed at even later st
 <div class='paper-box-text' markdown="1">
 
 <p style="font-weight: bold; margin-bottom: 0.25em;"> V2X-Reg++: A Real-time Global Registration Method for Multi-End Sensing System in Urban Intersections </p>
-<div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.9em;"> <strong style="color: black; text-decoration: underline;">Qianxin Qu</strong>*, <strong>Xinyu Zhang*†, Yijin Xiong*</strong>, Chen Xia, Ziqiang Song, Qian Peng, Kang Liu, Jun Li </div>
-
-<!-- **Qianxin Qu**\*, Xinyu Zhang\*, Yijin Xiong†, Chen Xia, Ziqiang Song, Qian Peng, Kang Liu, Jun Li -->
+<!-- <div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.9em;"> <strong style="color: black; text-decoration: underline;">Qianxin Qu</strong>*, <strong>Xinyu Zhang*†, Yijin Xiong*</strong>, Chen Xia, Ziqiang Song, Qian Peng, Kang Liu, Jun Li </div> -->
+<div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.9em;"> <strong>Xinyu Zhang*†</strong>, <strong style="color: black; text-decoration: underline;">Qianxin Qu*</strong>, <strong>Yijin Xiong*</strong>, Chen Xia, Ziqiang Song, Qian Peng, Kang Liu, Jun Li </div>
+<div style="color: dimgray; font-size: 0.8em; font-style: italic; margin-top: 0.25em; margin-bottom: 0.9em;">
+Note: This work was my independent research project, conducted under the auspices of <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Prof. Xinyu Zhang</a>. I handled the entire research process, from literature review and concept development to methodological refinement, benchmark experiments, manuscript writing, revision, and the coordination of real-vehicle tests.
+</div>
 
 Accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS, JCR Q1, IF:8.4)
 
 
-<a href="https://arxiv.org/abs/2410.11008"><img src="https://img.shields.io/badge/arXiv-2410.11008-b31b1b?logo=arxiv" alt="arXiv" /></a>  <a href="https://github.com/MassimoQu/v2i-calib"><img src="https://img.shields.io/github/stars/MassimoQu/v2i-calib?style=social" alt="" /> </a> 
+<a href="https://arxiv.org/abs/2410.11008"><img src="https://img.shields.io/badge/arXiv-2410.11008-b31b1b?logo=arxiv" alt="arXiv" /></a> <a href="https://ieeexplore.ieee.org/document/11237211"><img src="https://img.shields.io/badge/IEEE-Paper-blue"></a> <a href="https://github.com/MassimoQu/v2i-calib"><img src="https://img.shields.io/github/stars/MassimoQu/v2i-calib?style=social" alt="" /> </a> 
 
 *tl;dr:* We argue that current spatial alignment methods, which require an initial pose, are impractical for real-world Vehicle-to-Everything (V2X) cooperative perception. To address this limitation, we propose an online global registration algorithm that uses perception priors to align heterogeneous sensors in real-time.
 
@@ -225,9 +227,9 @@ Note: As the primary contributor, I proposed the core framework, led the experim
 Note: I contributed the core idea of integrating the Mixture-of-Experts (MoE) architecture and assisted with its implementation, experimental validation, and baseline comparisons.
 </div>
 
-<a href="assets/withAppendix_UniMM-V2X_MoE-EnhancedMulti-LevelFusionforEnd-to-EndCooperativeAutonomousDriving.pdf"><img src="https://img.shields.io/badge/arXiv-PDF-b31b1b?logo=arxiv" alt="arXiv" /></a>
+<a href="assets/withAppendix_UniMM-V2X_MoE-EnhancedMulti-LevelFusionforEnd-to-EndCooperativeAutonomousDriving.pdf"><img src="https://img.shields.io/badge/arXiv-PDF-b31b1b?logo=arxiv" alt="arXiv" /></a>  <a href="https://github.com/Souig/UniMM-V2X"><img src="https://img.shields.io/github/stars/Souig/UniMM-V2X?style=social" alt="" /> </a> 
 
-*tl;dr:* We argue that current cooperative driving methods, which only fuse at the perception level, fail to align with downstream planning and can even degrade performance. To address this limitation, we propose UniMM-V2X, an end-to-end framework that introduces multi-level fusion (cooperating at both perception and prediction levels) enhanced with Mixture-of-Experts (MoE).
+*tl;dr:* We argue that current cooperative driving methods, which only fuse at the perception level, fail to align with downstream planning and can even degrade performance. To address this limitation, we propose UniMM-V2X, an end-to-end framework that introduces multi-level fusion (cooperating at both perception and prediction levels) enhanced with Mixture-of-Experts (MoE). 
 
 </div>
 </div>
