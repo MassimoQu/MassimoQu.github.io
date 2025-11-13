@@ -19,11 +19,11 @@ redirect_from:
 
 # 🥋 About me
 
-I am a current Research Assistant at <a href="http://www.svm.tsinghua.edu.cn/"> the School of Vehicle and Mobility</a>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, under the mentorship of Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Xinyu Zhang</a> and Prof. <a href="https://www.tsinghua.edu.cn/info/1166/93890.htm">Jun Li</a>. I earned my B.Eng in Computer Science and Technology from <a href="https://www.cumtb.edu.cn/">China University of Mining and Technology (CUMTB)</a> in 2023, where I was guided by Prof. <a href="https://ai.cumtb.edu.cn/info/1053/1134.htm">Jiajing Li</a>. Further enhancing my research credentials, I participated in joint training with <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a> from 2023 to 2024.
+I am a current Research Assistant at <a href="http://www.svm.tsinghua.edu.cn/"> the School of Vehicle and Mobility</a>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, under the mentorship of Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Xinyu Zhang</a> and Prof. <a href="https://www.tsinghua.edu.cn/info/1166/93890.htm">Jun Li</a>. I earned my B.Eng in Computer Science and Technology from <a href="https://www.cumtb.edu.cn/">China University of Mining and Technology (CUMTB)</a> in 2023, where I was guided by Prof. <a href="https://ai.cumtb.edu.cn/info/1053/1134.htm">Jiajing Li</a>. Further enhancing my research credentials, I participated in joint training with <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a> from 2023 to 2025.
 
 My research focuses on 3D computer vision and its application to spatial intelligence in autonomous systems, centered on the core challenge of data consistency (or alignment). Previously, my work focused on the foundational challenge of Spatio-Temporal Alignment for the Vehicle-to-Everything (V2X) sensing systems. Recently, I'm actively explore the potential of Large Foundation Model (LFM) and Multi-Modal Large Language Models (MLLM) for this field.
 
-I am actively seeking exploring MPhil/PhD programs to further my research on Large Model technologies and their applications in autonomous systems——any opportunities or referrals would be greatly appreciated! Please feel free to reach out!
+I am actively seeking exploring MPhil/PhD programs to further my research on Large Model technologies and their applications in autonomous systems. Any opportunities or referrals would be greatly appreciated! Please feel free to reach out!
 
 # 🦄 Research
 
@@ -42,7 +42,7 @@ The following overview frames my research from a specific perspective on 3D comp
 
 My research vision is to enable autonomous systems, such as self-driving vehicles, with robust Spatial Intelligence. Within this broad domain, I focus on the data consistency or the data alignment problem arising from heterogeneous data inputs (e.g., images, point clouds).
 
-I define this "alignment" as the process of mapping heterogeneous data to a common frame of reference, targeting consistency with real-world geometry or semantics. The varying characteristics of different data types (e.g., density, modality) create significant challenges in the accuracy of this mapping. Historically, this problem has evolved from manual methods to analytical, feature-based approaches, and now to data-driven deep learning models. Traditionally, alignment is a distinct upstream prerequisite for downstream data fusion. In this evolution, the boundary between these two tasks is blurring. However, I argue that the importance of alignment is not diminishing; rather, it is evolving——from a distinct **Explicit** task to an **Implicit** function absorbed by downstream models. This observation leads to my ultimate research goal: to develop a new paradigm for data and feature alignment, moving beyond the current scattered, case-by-case solutions.
+I define this "alignment" as the process of mapping heterogeneous data to a common frame of reference, targeting consistency with real-world geometry or semantics. The varying characteristics of different data types (e.g., density, modality) create significant challenges in the accuracy of this mapping. Historically, this problem has evolved from manual methods to analytical, feature-based approaches, and now to data-driven deep learning models. Traditionally, alignment is a distinct upstream prerequisite for downstream data fusion. In this evolution, the boundary between these two tasks is blurring. However, I argue that the importance of alignment is not diminishing; rather, it is evolving from a distinct **Explicit** task to an **Implicit** function absorbed by downstream models. This observation leads to my ultimate research goal: to develop a new paradigm for data and feature alignment, moving beyond the current scattered, case-by-case solutions.
 
 The criticality of spatial data consistency suggests the need for its own unified framework. My research aims to build this framework, exploring these issues extensively, and I broadly categorize my contributions into two main areas, which is a classification I proposed in my <a href="#pub-iotj2025">IoT-J survey</a>: Explicit Alignment and Implicit Alignment.
 
@@ -78,9 +78,9 @@ Furthermore, this concept of implicit alignment can be observed at even later st
 
 <p style="font-weight: bold; margin-bottom: 0.25em;"> V2X-Reg++: A Real-time Global Registration Method for Multi-End Sensing System in Urban Intersections </p>
 <!-- <div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.9em;"> <strong style="color: black; text-decoration: underline;">Qianxin Qu</strong>*, <strong>Xinyu Zhang*†, Yijin Xiong*</strong>, Chen Xia, Ziqiang Song, Qian Peng, Kang Liu, Jun Li </div> -->
-<div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.9em;"> <strong>Xinyu Zhang*†</strong>, <strong style="color: black; text-decoration: underline;">Qianxin Qu*</strong>, <strong>Yijin Xiong*</strong>, Chen Xia, Ziqiang Song, Qian Peng, Kang Liu, Jun Li </div>
+<div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.9em;"> <strong>Xinyu Zhang*†</strong>, <strong style="color: black; text-decoration: underline;">Qianxin Qu*</strong>, <strong>Yijin Xiong*</strong>, Chen Xia, Ziqiang Song, Qian Peng, Kang Liu, Jun Li, Keqiang Li </div>
 <div style="color: dimgray; font-size: 0.8em; font-style: italic; margin-top: 0.25em; margin-bottom: 0.9em;">
-Note: This work was my independent research project, conducted under the auspices of <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Prof. Xinyu Zhang</a>. I handled the entire research process, from literature review and concept development to methodological refinement, benchmark experiments, manuscript writing, revision, and the coordination of real-vehicle tests.
+Note: This work was my independent research project, conducted under the auspices of <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Prof. Xinyu Zhang</a>. I handled the entire research process, from literature review and concept development to methodological refinement, benchmark experiments, manuscript writing, revision, and the coordination of real-vehicle tests. The final author order (from 1rd on ArXiv submission) was adjusted post-acceptance.
 </div>
 
 Accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS, JCR Q1, IF:8.4)
@@ -125,7 +125,7 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS), 2024
 <div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.25em;"> <strong>Yijin Xiong, Xinyu Zhang†</strong>, Xin Gao, <strong style="color: black; text-decoration: underline;">Qianxin Qu</strong>, Chun Duan, Renjie Wang, Jing Liu, Jun Li </div>
 
 <div style="color: dimgray; font-size: 0.8em; font-style: italic; margin-top: 0.25em; margin-bottom: 0.9em;">
-Note: This survey was initiated by <a href="https://scholar.google.com/citations?user=myxo9mQAAAAJ">Dr. Yijin Xiong</a> under the auspices of <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Prof. Xinyu Zhang</a>. My primary contribution was developing the main chapter on V2X calibration and its novel thesis: "spatial alignment" from downstream cooperative perception can be regarded as implicit calibration. The final author order (from 3rd on ArXiv submission) was adjusted post-acceptance.
+Note: This survey was initiated by <a href="https://scholar.google.com/citations?user=myxo9mQAAAAJ">Dr. Yijin Xiong</a> under the auspices of <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Prof. Xinyu Zhang</a>. I drove the majority of the literature survey, authoring the core V2X calibration chapter. My key insight was the novel thesis that reframed 'spatial alignment' in cooperative perception as 'implicit calibration,' which became the central, innovative argument of the paper. The final author order (from 3rd on ArXiv submission) was adjusted post-acceptance.
 </div>
 
 
@@ -194,6 +194,27 @@ IEEE Transactions on Automation Science and Engineering, 2024(T-ASE, JCR Q1, IF=
 
 ### Under Review
 
+
+<div class='paper-box' id='pub-unimmv2x'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/AAAI26_UniMM-V2X.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<p style="font-weight: bold; margin-bottom: 0.9em;"> UniMM-V2X: MoE-Enhanced Multi-Level Fusion for End-to-End Cooperative Autonomous Driving  </p>
+
+<!-- <div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.25em;"> Ziyi Song, Chen Xia, <strong style="color: black;">Qianxin Qu</strong>, Hao Yu, Sheng Zhou†, Zhisheng Niu. </div> -->
+
+<div style="color: dimgray; font-size: 0.8em; font-style: italic; margin-top: 0.25em; margin-bottom: 0.9em;">
+Note: I contributed the core idea of integrating the Mixture-of-Experts (MoE) architecture and assisted with its implementation and experimental validation.
+</div>
+
+<a href="assets/withAppendix_UniMM-V2X_MoE-EnhancedMulti-LevelFusionforEnd-to-EndCooperativeAutonomousDriving.pdf"><img src="https://img.shields.io/badge/arXiv-PDF-b31b1b?logo=arxiv" alt="arXiv" /></a>  <a href="https://github.com/Souig/UniMM-V2X"><img src="https://img.shields.io/github/stars/Souig/UniMM-V2X?style=social" alt="" /> </a> 
+
+*tl;dr:* We argue that current cooperative driving methods, which only fuse at the perception level, fail to align with downstream planning and can even degrade performance. To address this limitation, we propose UniMM-V2X, an end-to-end framework that introduces multi-level fusion (cooperating at both perception and prediction levels) enhanced with Mixture-of-Experts (MoE). 
+
+</div>
+</div>
+
+
+
 <div class='paper-box' id='pub-costr'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ICRA2026_CoSTr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -214,25 +235,6 @@ Note: As the primary contributor, I proposed the core framework, led the experim
 </div>
 </div>
 
-
-
-<div class='paper-box' id='pub-unimmv2x'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/AAAI26_UniMM-V2X.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<p style="font-weight: bold; margin-bottom: 0.9em;"> UniMM-V2X: MoE-Enhanced Multi-Level Fusion for End-to-End Cooperative Autonomous Driving  </p>
-
-<!-- <div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.25em;"> Ziyi Song, Chen Xia, <strong style="color: black;">Qianxin Qu</strong>, Hao Yu, Sheng Zhou†, Zhisheng Niu. </div> -->
-
-<div style="color: dimgray; font-size: 0.8em; font-style: italic; margin-top: 0.25em; margin-bottom: 0.9em;">
-Note: I contributed the core idea of integrating the Mixture-of-Experts (MoE) architecture and assisted with its implementation, experimental validation, and baseline comparisons.
-</div>
-
-<a href="assets/withAppendix_UniMM-V2X_MoE-EnhancedMulti-LevelFusionforEnd-to-EndCooperativeAutonomousDriving.pdf"><img src="https://img.shields.io/badge/arXiv-PDF-b31b1b?logo=arxiv" alt="arXiv" /></a>  <a href="https://github.com/Souig/UniMM-V2X"><img src="https://img.shields.io/github/stars/Souig/UniMM-V2X?style=social" alt="" /> </a> 
-
-*tl;dr:* We argue that current cooperative driving methods, which only fuse at the perception level, fail to align with downstream planning and can even degrade performance. To address this limitation, we propose UniMM-V2X, an end-to-end framework that introduces multi-level fusion (cooperating at both perception and prediction levels) enhanced with Mixture-of-Experts (MoE). 
-
-</div>
-</div>
 
 <div class='paper-box' id='pub-parallel'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ParallelismTraining.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
