@@ -80,7 +80,7 @@ Furthermore, this concept of implicit alignment can be observed at even later st
 <!-- <div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.9em;"> <strong style="color: black; text-decoration: underline;">Qianxin Qu</strong>*, <strong>Xinyu Zhang*†, Yijin Xiong*</strong>, Chen Xia, Ziqiang Song, Qian Peng, Kang Liu, Jun Li </div> -->
 <div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.9em;"> <strong>Xinyu Zhang*†</strong>, <strong style="color: black; text-decoration: underline;">Qianxin Qu*</strong>, <strong>Yijin Xiong*</strong>, Chen Xia, Ziqiang Song, Qian Peng, Kang Liu, Jun Li, Keqiang Li </div>
 <div style="color: dimgray; font-size: 0.8em; font-style: italic; margin-top: 0.25em; margin-bottom: 0.9em;">
-Note: This work was my independent research project, conducted under the auspices of <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Prof. Xinyu Zhang</a>. I handled the entire research process, from literature review and concept development to methodological refinement, benchmark experiments, manuscript writing, revision, and the coordination of real-vehicle tests. The final author order (from 1rd on ArXiv submission) was adjusted post-acceptance.
+Note: This work was my independent research project, conducted under the auspices of <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Prof. Xinyu Zhang</a>. I handled the entire research process, from literature review and concept development to methodological refinement, benchmark experiments, manuscript writing, revision, and the coordination of real-vehicle tests. 
 </div>
 
 Accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS, JCR Q1, IF:8.4)
@@ -146,7 +146,7 @@ IEEE Internet of Things Journal, 2025 (IoT-J, JCR Q1, IF:8.9, Student First Auth
 
 <p style="font-weight: bold; margin-bottom: 0.25em;"> Automated Extrinsic Calibration of Multi-Cameras and LiDAR </p>
 
-<div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.25em;"> <strong>Xinyu Zhang, Yijin Xiong†</strong>, <strong style="color: black; text-decoration: underline;">Qianxin Qu</strong>, Shifan Zhu, Shichun Guo, Dafeng Jin, Guoying Zhang, Haibing Ren, Jun Li</div>
+<div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.25em;"> <strong>Xinyu Zhang†, Yijin Xiong</strong>, <strong style="color: black; text-decoration: underline;">Qianxin Qu</strong>, Shifan Zhu, Shichun Guo, Dafeng Jin, Guoying Zhang, Haibing Ren, Jun Li</div>
 
 <!-- Xinyu Zhang, Yijin Xiong†, **Qianxin Qu**, Shifan Zhu, Shichun Guo, Dafeng Jin, Guoying Zhang, Haibing Ren, Jun Li -->
 
@@ -195,7 +195,7 @@ IEEE Transactions on Automation Science and Engineering, 2024(T-ASE, JCR Q1, IF=
 ### Under Review
 
 
-<div class='paper-box' id='pub-unimmv2x'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/AAAI26_UniMM-V2X.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' id='pub-unimmv2x'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/AAAI26_UniMM-V2X.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p style="font-weight: bold; margin-bottom: 0.9em;"> UniMM-V2X: MoE-Enhanced Multi-Level Fusion for End-to-End Cooperative Autonomous Driving  </p>
