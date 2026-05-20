@@ -19,57 +19,66 @@ redirect_from:
 
 # 🥋 About me
 
-I am a current Research Assistant at <a href="http://www.svm.tsinghua.edu.cn/"> the School of Vehicle and Mobility</a>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, under the mentorship of Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Xinyu Zhang</a> and Prof. <a href="https://www.tsinghua.edu.cn/info/1166/93890.htm">Jun Li</a>. I earned my B.Eng in Computer Science and Technology from <a href="https://www.cumtb.edu.cn/">China University of Mining and Technology (CUMTB)</a> in 2023, where I was guided by Prof. <a href="https://ai.cumtb.edu.cn/info/1053/1134.htm">Jiajing Li</a>. Further enhancing my research credentials, I participated in joint training with <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a> from 2023 to 2025.
+I am a current Research Assistant at <a href="http://www.svm.tsinghua.edu.cn/"> the School of Vehicle and Mobility</a>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, under the mentorship of Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Xinyu Zhang</a> and Prof. <a href="https://www.tsinghua.edu.cn/info/1166/93890.htm">Jun Li</a>. I earned my B.Eng in Computer Science and Technology from <a href="https://www.cumtb.edu.cn/">China University of Mining and Technology (CUMTB)</a> in 2023, where I was guided by Prof. <a href="https://ai.cumtb.edu.cn/info/1053/1134.htm">Jiajing Li</a>. I also participated in joint training with <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a> from 2022 to 2023.
 
-My research focuses on 3D computer vision and its application to spatial intelligence in autonomous systems, centered on the core challenge of data consistency (or alignment). Previously, my work focused on the foundational challenge of Spatio-Temporal Alignment for the Vehicle-to-Everything (V2X) sensing systems. Recently, I'm actively explore the potential of Large Foundation Model (LFM) and Multi-Modal Large Language Models (MLLM) for this field.
+My research focuses on how 3D vision, Visual Language Models (VLMs), and 3D reconstruction foundation models can be used to build spatial intelligence for autonomous systems. Previously, much of my work has centered on multi-agent traffic scenarios, especially V2X / CAV settings, where the key challenge is to turn heterogeneous observations into a reliable shared spatial representation. My published work has therefore focused on spatio-temporal alignment, calibration, localization, and cooperative perception, while my more recent efforts extend this line toward VLM-based scene understanding and geometry-aware representations.
 
-I am actively seeking exploring MPhil/PhD programs to further my research on Large Model technologies and their applications in autonomous systems. Any opportunities or referrals would be greatly appreciated! Please feel free to reach out!
+I am also exploring Agentic AI for the physical world, with a particular interest in improving agents' long-horizon task capabilities: how agents can reason over 3D/spatial observations, maintain task context, interact with embodied systems, and support decision-making in real-world autonomous scenarios. Alongside this main direction, I use agentic AI to build research-assistance workflows for literature discovery, hypothesis generation, experiment planning, and manuscript iteration, while studying how researchers can collaborate effectively with agents. I see this human-agent research workflow as another important problem for the new era of scientific discovery.
+
+I am actively exploring MPhil/PhD opportunities. Please feel free to reach out.
 
 # 🦄 Research
 
-### tl;dr
-
 - 3D computer vision: Registration/Calibration, Perception, SLAM;
-- Autonomous Driving: Cooperative Perception, V2X, End-to-End Driving;
-- Application of MLLMs & VLA: Scene Understanding, End-to-End Driving, Robot Manipulation.
+- Autonomous Systems: Cooperative Perception, V2X, Spatial Intelligence;
+- Visual Language Models, 3D Reconstruction Foundation Models, and Agentic AI.
 
-### Overview
 
-<!-- <div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.95em;"> -->
-<div style="color: dimgray; font-size: 0.8em; font-style: italic; margin-top: 0.25em; margin-bottom: 0.9em;">
-The following overview frames my research from a specific perspective on 3D computer vision and its application to spatial intelligence in autonomous systems. This categorization is based on my personal understanding of the field's trajectory and may differ from conventional views. If differing perspectives, I welcome any discussion!
+# 🧩 Selected Projects
+
+<div class='project-box' id='project-vlm-ad' markdown="1">
+
+<div class="project-title"><span class="project-badge">2026-2027</span> VLM/VLA Exploration for End-to-End Autonomous Driving</div>
+
+<div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.9em;"> Tsinghua University × <a href="https://www.voyah.com.cn/">VOYAH</a> | Participant | Sep. 2025 - Apr. 2027 </div>
+
+*Focus:* Exploring how VLMs/VLAs can support end-to-end autonomous driving, especially the integration of perception, scene reasoning, decision-making, and planning.
+
+*Role:* I participate in model training and evaluation for end-to-end driving-oriented tasks.
+
+
 </div>
 
-My research vision is to enable autonomous systems, such as self-driving vehicles, with robust Spatial Intelligence. Within this broad domain, I focus on the data consistency or the data alignment problem arising from heterogeneous data inputs (e.g., images, point clouds).
 
-I define this "alignment" as the process of mapping heterogeneous data to a common frame of reference, targeting consistency with real-world geometry or semantics. The varying characteristics of different data types (e.g., density, modality) create significant challenges in the accuracy of this mapping. Historically, this problem has evolved from manual methods to analytical, feature-based approaches, and now to data-driven deep learning models. Traditionally, alignment is a distinct upstream prerequisite for downstream data fusion. In this evolution, the boundary between these two tasks is blurring. However, I argue that the importance of alignment is not diminishing; rather, it is evolving from a distinct **Explicit** task to an **Implicit** function absorbed by downstream models. This observation leads to my ultimate research goal: to develop a new paradigm for data and feature alignment, moving beyond the current scattered, case-by-case solutions.
+<div class='project-box' id='project-v2x-cooperative-driving' markdown="1">
 
-The criticality of spatial data consistency suggests the need for its own unified framework. My research aims to build this framework, exploring these issues extensively, and I broadly categorize my contributions into two main areas, which is a classification I proposed in my <a href="#pub-iotj2025">IoT-J survey</a>: Explicit Alignment and Implicit Alignment.
+<div class="project-title"><span class="project-badge">2023-2025</span> Cooperative Driving and V2X Spatial Intelligence</div>
 
-#### 1. Explicit Alignment
+<div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.9em;"> Tsinghua University × <a href="https://www.t3caic.com/about/">CAIC</a> | Key Contributor | Nov. 2023 - Jun. 2025 </div>
 
-Explicit Alignment refers to classical, often upstream, tasks where alignment is the direct and primary objective. The most typical examples are sensor spatio-temporal calibration and data registration. A early portion of my published work, such as our Camera-LiDARs Calibration research (<a href="#pub-tim2023">T-IM 2023</a>), falls into this category. Another major class of explicit alignment is map-based localization, including SLAM, which is fundamentally a geometric matching and alignment task. I have also contributed to this area (<a href="#pub-tase2024">T-ASE 2024</a>).
+*Focus:* Cooperative perception and spatial alignment for connected autonomous driving systems.
 
-My primary focus is on the new challenges that arise as autonomous systems evolve from single-agent intelligence to multi-agent cooperative systems (e.g., Vehicle-to-Everything in intelligent transportation). My representative publications (<a href="#pub-iros2024">IROS 2024</a>, <a href="#pub-tits2025">T-ITS 2025</a>) all investigate the unique data consistency problems in these emerging multi-agent scenarios. 
+*Role:* I contributed to the construction and debugging of a V2X data acquisition platform, assisted real-vehicle cooperative perception data collection, participated in data cleaning and dataset construction, and led research on spatio-temporal alignment for multi-end sensing systems.
 
-#### 2. Implicit Alignment
+*Outcomes:* <a href="#pub-tits2025">T-ITS 2025</a>, <a href="#pub-iros2024">IROS 2024 Oral</a>, <a href="#pub-iotj2025">IoT-J 2025</a>; patent <a href="https://patents.google.com/patent/CN119087408A/zh">CN119087408A</a>.
 
-Implicit Alignment is a concept based on my personal observations of current trends. I have observed that while multi-agent cooperative perception models are affected by data alignment accuracy, many new methods demonstrate robustness to alignment errors. This seems to reduce the pressure on upstream alignment, but I argue that these models are absorbing part of the alignment task, performing compensatory alignment within their intermediate feature layers. This reflects a subtle but significant shift in functional responsibility in the era of end-to-end models. My work under review (<a href="#pub-costr">CoSTr</a>) explores this path by optimizing alignment at the sparse feature level.
+</div>
 
-Furthermore, this concept of implicit alignment can be observed at even later stages, which I am currently investigating along three lines:
 
-* MLLM-based Scene Understanding: I have observed surprising and promising capabilities of large models in handling alignment, as seen in the experiments of my ongoing paper (<a href="#pub-wamoe3d">WAMoE3D</a>). This will be a major focus of my future work.
+<div class='project-box' id='project-online-calibration' markdown="1">
 
-* Pose-Free 3D Foundation Model: The development of pose-free 3D foundation models offers new insights into how systems can learn to align data without explicit pose information, which is also what I'm currently investigating.
+<div class="project-title"><span class="project-badge">2023</span> Online Multi-Sensor Calibration for Autonomous Vehicles</div>
 
-* End-to-End Driving: I am exploring how tasks further downstream, such as end-to-end driving or planning (<a href="#pub-unimmv2x">UniMM-V2X</a>), react to the quality of upstream data alignment, which helps quantify the impact of both explicit and implicit alignment on final system performance.
+<div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.9em;"> <a href="https://www.mogox.com/">MOGOX</a> | Key Contributor | Mar. 2023 - Nov. 2023 </div>
 
-# 🔥 News
-- *2025.08*: &nbsp;🎉🎉 Our paper "V2X-Reg++: A Real-time Global Registration Method for Multi-End Sensing System in Urban Intersections" has been accepted by IEEE T-ITS (JCR Q1, IF:8.4).
-- *2025.05*: &nbsp;🎉🎉 Our survey paper "Cooperative Visual-LiDAR Extrinsic Calibration Technology for Intersection Vehicle-Infrastructure: A review" was accepted by IEEE IoT-J (JCR Q1, IF:8.9).
-- *2024.08*: &nbsp;🎉🎉 Our paper "GF-SLAM: A Novel Hybrid Localization Method Incorporating Global and Arc Features" was accepted by IEEE T-ASE (JCR Q1, IF=5.9).
-- *2024.06*: &nbsp;🎉🎉 Our paper "V2I-Calib: A Novel Calibration Approach for Collaborative Vehicle and Infrastructure LiDAR Systems" was orally presented at IROS 2024(flagship conferences in Robotics). 
-- *2023.11*: &nbsp;🎉🎉 Our paper "Automated Extrinsic Calibration  of Multi-Cameras and LiDAR" has been accepted by IEEE T-IM (JCR Q1, IF:6.4).
+*Focus:* Online extrinsic calibration for vehicle-mounted multi-sensor systems.
+
+*Role:* I led the development and scenario-specific tuning of the automatic calibration algorithm, assisted real-vehicle data collection and deployment, validated calibration accuracy and stability, and prepared technical quality-inspection reports.
+
+*Outcomes:* <a href="#pub-tim2023">T-IM 2023</a>; patent transfer and application deployment.
+
+</div>
+
 
 # 📝 Publications 
 
@@ -78,7 +87,7 @@ Furthermore, this concept of implicit alignment can be observed at even later st
 
 <p style="font-weight: bold; margin-bottom: 0.25em;"> V2X-Reg++: A Real-time Global Registration Method for Multi-End Sensing System in Urban Intersections </p>
 <!-- <div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.9em;"> <strong style="color: black; text-decoration: underline;">Qianxin Qu</strong>*, <strong>Xinyu Zhang*†, Yijin Xiong*</strong>, Chen Xia, Ziqiang Song, Qian Peng, Kang Liu, Jun Li </div> -->
-<div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.9em;"> <strong>Xinyu Zhang*†</strong>, <strong style="color: black; text-decoration: underline;">Qianxin Qu*</strong>, <strong>Yijin Xiong*</strong>, Chen Xia, Ziqiang Song, Qian Peng, Kang Liu, Jun Li, Keqiang Li </div>
+<div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.9em;"> <strong>Xinyu Zhang*†</strong>, <strong style="color: black; text-decoration: underline;">Qianxin Qu*</strong>, Yijin Xiong, Chen Xia, Ziqiang Song, Qian Peng, Kang Liu, <strong>Jun Li†</strong>, Keqiang Li </div>
 <div style="color: dimgray; font-size: 0.8em; font-style: italic; margin-top: 0.25em; margin-bottom: 0.9em;">
 Note: This work was my independent research project, conducted under the auspices of <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Prof. Xinyu Zhang</a>. I handled the entire research process, from literature review and concept development to methodological refinement, benchmark experiments, manuscript writing, revision, and the coordination of real-vehicle tests. 
 </div>
@@ -101,7 +110,7 @@ Accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS, JCR 
 
 <p style="font-weight: bold; margin-bottom: 0.25em;"> V2I-Calib: A Novel Calibration Approach for Collaborative Vehicle and Infrastructure LiDAR Systems </p>
 
-<div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.9em;"><strong style="color: black; text-decoration: underline;">Qianxin Qu</strong>*, <strong>Yijin Xiong*</strong>, Guipeng Zhang, Xin Wu, Xiaohan Gao, Xin Gao, Hanyu Li, Shichun Guo, <strong>Guoying Zhang†</strong></div>
+<div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.9em;"><strong style="color: black; text-decoration: underline;">Qianxin Qu</strong>*, Yijin Xiong*, Guipeng Zhang, Xin Wu, Xiaohan Gao, Xin Gao, Hanyu Li, Shichun Guo, <strong>Guoying Zhang†</strong></div>
 
 <!-- **Qianxin Qu**\*, Yijin Xiong\*, Guipeng Zhang, Xin Wu, Xiaohan Gao, Xin Gao, Hanyu Li, Shichun Guo, Guoying Zhang† -->
 
@@ -122,14 +131,14 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS), 2024
 
 <p style="font-weight: bold; margin-bottom: 0.25em;"> Cooperative Visual-LiDAR Extrinsic Calibration Technology for Intersection Vehicle-Infrastructure: A review  </p>
 
-<div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.25em;"> <strong>Yijin Xiong, Xinyu Zhang†</strong>, Xin Gao, <strong style="color: black; text-decoration: underline;">Qianxin Qu</strong>, Chun Duan, Renjie Wang, Jing Liu, Jun Li </div>
+<div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.25em;"> Yijin Xiong, <strong>Xinyu Zhang†</strong>, Xin Gao, <strong style="color: black; text-decoration: underline;">Qianxin Qu</strong>, Chun Duan, Renjie Wang, Jing Liu, <strong>Jun Li†</strong> </div>
 
 <div style="color: dimgray; font-size: 0.8em; font-style: italic; margin-top: 0.25em; margin-bottom: 0.9em;">
-Note: This survey was initiated by <a href="https://scholar.google.com/citations?user=myxo9mQAAAAJ">Dr. Yijin Xiong</a> under the auspices of <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Prof. Xinyu Zhang</a>. I drove the majority of the literature survey, authoring the core V2X calibration chapter. My key insight was the novel thesis that reframed 'spatial alignment' in cooperative perception as 'implicit calibration,' which became the central, innovative argument of the paper. The final author order (from 3rd on ArXiv submission) was adjusted post-acceptance.
+Note: This survey was initiated by <a href="https://scholar.google.com/citations?user=myxo9mQAAAAJ">Dr. Yijin Xiong</a> under the auspices of <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Prof. Xinyu Zhang</a>. I later took responsibility for a substantial revision of the manuscript, expanding the literature coverage from 60+ to 120+ papers and reframing V2X calibration from a direct sensor-calibration problem to a broader spatial-alignment issue that extends into downstream cooperative perception.
 </div>
 
 
-IEEE Internet of Things Journal, 2025 (IoT-J, JCR Q1, IF:8.9, Student First Author)
+IEEE Internet of Things Journal, 2025 (IoT-J, JCR Q1, IF:8.9)
 
 <a href="https://arxiv.org/abs/2405.10132"><img src="https://img.shields.io/badge/arXiv-2405.10132-b31b1b?logo=arxiv" alt="arXiv" /></a> <a href="https://ieeexplore.ieee.org/abstract/document/10993426/"><img src="https://img.shields.io/badge/IEEE-Paper-blue"></a> 
 
@@ -146,12 +155,12 @@ IEEE Internet of Things Journal, 2025 (IoT-J, JCR Q1, IF:8.9, Student First Auth
 
 <p style="font-weight: bold; margin-bottom: 0.25em;"> Automated Extrinsic Calibration of Multi-Cameras and LiDAR </p>
 
-<div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.25em;"> <strong>Xinyu Zhang†, Yijin Xiong</strong>, <strong style="color: black; text-decoration: underline;">Qianxin Qu</strong>, Shifan Zhu, Shichun Guo, Dafeng Jin, Guoying Zhang, Haibing Ren, Jun Li</div>
+<div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.25em;"> <strong>Xinyu Zhang†</strong>, Yijin Xiong, <strong style="color: black; text-decoration: underline;">Qianxin Qu</strong>, Shifan Zhu, Shichun Guo, Dafeng Jin, Guoying Zhang, Haibing Ren, <strong>Jun Li†</strong></div>
 
 <!-- Xinyu Zhang, Yijin Xiong†, **Qianxin Qu**, Shifan Zhu, Shichun Guo, Dafeng Jin, Guoying Zhang, Haibing Ren, Jun Li -->
 
 <div style="color: dimgray; font-size: 0.8em; font-style: italic; margin-top: 0.25em; margin-bottom: 0.9em;">
-Note: This research was initiated by <a href="https://scholar.google.com/citations?user=myxo9mQAAAAJ">Dr. Yijin Xiong</a> under the auspices of <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Prof. Xinyu Zhang</a>. It served as my undergraduate thesis and I was responsible for algorithm implementation, improvement, and coordinating this real-world experiment.
+Note: This research was initiated by <a href="https://scholar.google.com/citations?user=myxo9mQAAAAJ">Dr. Yijin Xiong</a> under the auspices of <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Prof. Xinyu Zhang</a>. It served as my undergraduate thesis; I proposed and improved the calibration algorithm and conducted the real-vehicle validation.
 </div>
 
 IEEE Transactions on Instrumentation and Measurement, 2023 (T-IM, JCR Q1, IF:5.9, Student First Author)
@@ -172,7 +181,7 @@ IEEE Transactions on Instrumentation and Measurement, 2023 (T-IM, JCR Q1, IF:5.9
 <p style="font-weight: bold; margin-bottom: 0.25em;"> GF-SLAM: A Novel Hybrid Localization Method Incorporating Global and Arc Features </p>
 
 <div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.25em;">
-<strong>Yijin Xiong, Xinyu Zhang†</strong>, Wenju Gao, Jing Liu, <strong style="color: black; text-decoration: underline;">Qianxin Qu</strong>, Shichun Guo, Yang Shen, Jun Li
+Yijin Xiong, <strong>Xinyu Zhang†</strong>, Wenju Gao, Jing Liu, <strong style="color: black; text-decoration: underline;">Qianxin Qu</strong>, Shichun Guo, Yang Shen, <strong>Jun Li†</strong>
 </div>
 
 <!-- Yijin Xiong, Xinyu Zhang†, Wenju Gao, Yuchao Wang, Jing Liu, **Qianxin Qu**, Shichun Guo, Yang Shen, Jun Li -->
@@ -190,84 +199,6 @@ IEEE Transactions on Automation Science and Engineering, 2024(T-ASE, JCR Q1, IF=
 </div>
 </div>
 
-
-
-### Under Review
-
-
-<div class='paper-box' id='pub-unimmv2x'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/AAAI26_UniMM-V2X.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<p style="font-weight: bold; margin-bottom: 0.9em;"> UniMM-V2X: MoE-Enhanced Multi-Level Fusion for End-to-End Cooperative Autonomous Driving  </p>
-
-<!-- <div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.25em;"> Ziyi Song, Chen Xia, <strong style="color: black;">Qianxin Qu</strong>, Hao Yu, Sheng Zhou†, Zhisheng Niu. </div> -->
-
-<div style="color: dimgray; font-size: 0.8em; font-style: italic; margin-top: 0.25em; margin-bottom: 0.9em;">
-Note: I contributed the core idea of integrating the Mixture-of-Experts (MoE) architecture and assisted with its implementation and experimental validation.
-</div>
-
-<a href="assets/withAppendix_UniMM-V2X_MoE-EnhancedMulti-LevelFusionforEnd-to-EndCooperativeAutonomousDriving.pdf"><img src="https://img.shields.io/badge/arXiv-PDF-b31b1b?logo=arxiv" alt="arXiv" /></a>  <a href="https://github.com/Souig/UniMM-V2X"><img src="https://img.shields.io/github/stars/Souig/UniMM-V2X?style=social" alt="" /> </a> 
-
-*tl;dr:* We argue that current cooperative driving methods, which only fuse at the perception level, fail to align with downstream planning and can even degrade performance. To address this limitation, we propose UniMM-V2X, an end-to-end framework that introduces multi-level fusion (cooperating at both perception and prediction levels) enhanced with Mixture-of-Experts (MoE). 
-
-</div>
-</div>
-
-
-
-<div class='paper-box' id='pub-costr'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ICRA2026_CoSTr.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<p style="font-weight: bold;  margin-bottom: 0.9em;"> CoSTr: a Fully Sparse Transformer with Mutual Information for Pragmatic Collaborative Perception </p>
-
-<!-- <div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.25em;"> <strong style="color: black;">Qianxin Qu</strong>, Chen Xia, Ziyi Song, Guipeng Zhang, Sheng Zhou†, Zhisheng Niu. </div> -->
-
-<div style="color: dimgray; font-size: 0.8em; font-style: italic; margin-top: 0.25em; margin-bottom: 0.9em;">
-Note: As the primary contributor, I proposed the core framework, led the experimental validation, and authored the manuscript.
-</div>
-
-<!-- Under Review for ICRA 2026 -->
-
-<a href="assets/CoSTr-full-v5.pdf"><img src="https://img.shields.io/badge/arXiv-PDF-b31b1b?logo=arxiv" alt="arXiv" /></a>
-
-*tl;dr:* Current cooperative perception suffers from redundant dense BEV features, insufficient sparse receptive fields, and poor spatio-temporal robustness. We propose a sparse Transformer, combining mutual information and flow-awareness, to achieve a fully sparse-feature pipeline for cooperative perception.
-
-</div>
-</div>
-
-
-<div class='paper-box' id='pub-parallel'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ParallelismTraining.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<p style="font-weight: bold; margin-bottom: 0.9em;"> A Survey on Hybrid Parallelism Techniques for Large Model Training </p>
-
-<!-- <div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.25em;"> Guipeng Zhang, <strong style="color: black;">Qianxin Qu</strong>, Yuzhong Sun†. </div> -->
-
-<div style="color: dimgray; font-size: 0.8em; font-style: italic; margin-top: 0.25em; margin-bottom: 0.9em;">
-Note: My primary responsibility was the comprehensive research and writing of Chapter 3 (Evolution of Hybrid Parallelism), and I also contributed to discussions on the mathematical abstractions and future work sections.
-</div>
-
-<a href="assets/LLM_mixed_parallel_training.pdf"><img src="https://img.shields.io/badge/arXiv-PDF-b31b1b?logo=arxiv" alt="arXiv" /></a>
-
-*tl;dr:* As traditional parallelism fails for massive Transformers, this survey reviews hybrid strategies (DP, TP, PP, SP, EP). We introduce a unified framework based on operator partitioning to analyze these methods and the evolution of automatic parallelism search.
-
-</div>
-</div>
-
-
-<div class='paper-box' id='pub-wamoe3d'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/WAMoE.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<p style="font-weight: bold; margin-bottom: 0.9em;"> WAMoE3D: Weather-aware Mixture-of-Experts for MLLM-based 3D Scene Understanding in Autonomous Driving </p>
-
-<div style="color: dimgray; font-size: 0.8em; font-style: italic; margin-top: 0.25em; margin-bottom: 0.9em;">
-Note: My contributions to this project include researching and draft the related work chapter on MLLM-based scene understanding, assisting with the benchmark creation (including annotation specifications, LLM pre-annotation, and SOTA model evaluation), and proposing the core WAMoE adaptive fusion framework.
-</div>
-
-*tl;dr:* To address the sharp performance drop of MLLMs in adverse weather, we built a VQA dataset and benchmark for traffic scene understanding based on the <a href="https://arxiv.org/pdf/2310.07602">Dual-Radar</a> dataset. We then proposed an adaptive fusion framework for the LLaMA architecture, utilizing a Weather-aware Mixture-of-Experts (WAMoE) module to dynamically fuse camera, LiDAR, and radar features, coupled with LoRA-based fine-tuning to enhance perception and reasoning capabilities in adverse weather.
-
-</div>
-</div>
 
 
 
