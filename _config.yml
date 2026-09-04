@@ -7,7 +7,9 @@
 
 # Site Settings
 title                    : "Qianxin Qu - 瞿签新"
-description              : "RA@Tsinghua University | 3D Vision | Spatial Intelligence | Agentic AI | Autonomous Driving | V2X/CAV"
+description              : "PhD Student @ HKUST(GZ) · IoT Thrust | Spatial Intelligence × V2X & Autonomous Driving"
+url                      : "https://qqxmassimo.me"
+baseurl                  : ""
 repository               : "MassimoQu/MassimoQu.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,7 +26,7 @@ author:
   name             : "Qianxin Qu"
   avatar           : "images/qqx_2025_suit_gemini.png"
   bio              : ""
-  location         : "Beijing, China"
+  location         : "Guangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=tp0val8AAAAJ"

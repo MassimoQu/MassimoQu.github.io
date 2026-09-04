@@ -19,66 +19,31 @@ redirect_from:
 
 # 🥋 About me
 
-I am a current Research Assistant at <a href="http://www.svm.tsinghua.edu.cn/"> the School of Vehicle and Mobility</a>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, under the mentorship of Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Xinyu Zhang</a> and Prof. <a href="https://www.tsinghua.edu.cn/info/1166/93890.htm">Jun Li</a>. I earned my B.Eng in Computer Science and Technology from <a href="https://www.cumtb.edu.cn/">China University of Mining and Technology (CUMTB)</a> in 2023, where I was guided by Prof. <a href="https://ai.cumtb.edu.cn/info/1053/1134.htm">Jiajing Li</a>. I also participated in joint training with <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a> from 2022 to 2023.
+I am **Qianxin Qu**, a Ph.D. student in the **Internet of Things (IoT) Thrust** at the <a href="https://www.hkust-gz.edu.cn/">Hong Kong University of Science and Technology (Guangzhou)</a>, advised by Prof. <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/?id=146">Ying Cui (崔颖)</a>. I am based in Guangzhou, China, and work at the intersection of **spatial intelligence**, **V2X**, and **autonomous driving**.
 
-My research focuses on how 3D vision, Visual Language Models (VLMs), and 3D reconstruction foundation models can be used to build spatial intelligence for autonomous systems. Previously, much of my work has centered on multi-agent traffic scenarios, especially V2X / CAV settings, where the key challenge is to turn heterogeneous observations into a reliable shared spatial representation. My published work has therefore focused on spatio-temporal alignment, calibration, localization, and cooperative perception, while my more recent efforts extend this line toward VLM-based scene understanding and geometry-aware representations.
+<div class="current-position" markdown="1">
+<span class="current-position__label">CURRENT POSITION</span>
+<strong>Ph.D. Student · IoT Thrust</strong>
+<span><a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a></span>
+<span>Advised by Prof. <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/?id=146">Ying Cui (崔颖)</a></span>
+</div>
 
-I am also exploring Agentic AI for the physical world, with a particular interest in improving agents' long-horizon task capabilities: how agents can reason over 3D/spatial observations, maintain task context, interact with embodied systems, and support decision-making in real-world autonomous scenarios. Alongside this main direction, I use agentic AI to build research-assistance workflows for literature discovery, hypothesis generation, experiment planning, and manuscript iteration, while studying how researchers can collaborate effectively with agents. I see this human-agent research workflow as another important problem for the new era of scientific discovery.
-
-I am actively exploring MPhil/PhD opportunities. Please feel free to reach out.
+Before starting my Ph.D., I was a Research Assistant at the <a href="http://www.svm.tsinghua.edu.cn/">School of Vehicle and Mobility</a>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, mentored by Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Xinyu Zhang</a> and Prof. <a href="https://www.tsinghua.edu.cn/info/1166/93890.htm">Jun Li</a>. I earned my B.Eng. in Computer Science and Technology from <a href="https://www.cumtb.edu.cn/">China University of Mining and Technology (CUMTB)</a> in 2023, where I was guided by Prof. <a href="https://ai.cumtb.edu.cn/info/1053/1134.htm">Jiajing Li</a>. From 2022 to 2023, I also participated in joint training at Tsinghua University.
 
 # 🦄 Research
 
-- 3D computer vision: Registration/Calibration, Perception, SLAM;
-- Autonomous Systems: Cooperative Perception, V2X, Spatial Intelligence;
-- Visual Language Models, 3D Reconstruction Foundation Models, and Agentic AI.
+My research focuses on building spatial intelligence for autonomous systems. I study how connected vehicles and infrastructure can perceive, align, and reason about shared 3D environments, with the goal of building reliable spatial representations for autonomous systems.
 
+More broadly, I explore how 3D vision, Visual Language Models (VLMs), and 3D reconstruction foundation models can support spatial intelligence for autonomous systems. Much of my previous work has centered on multi-agent traffic scenarios, especially V2X / CAV settings, where the key challenge is to turn heterogeneous observations into a reliable shared spatial representation. My published work has therefore focused on spatio-temporal alignment, calibration, localization, and cooperative perception, while my more recent efforts extend this line toward VLM-based scene understanding and geometry-aware representations.
 
-# 🧩 Selected Projects
+I am also exploring Agentic AI for the physical world, with a particular interest in improving agents' long-horizon task capabilities: how agents can reason over 3D and spatial observations, maintain task context, interact with embodied systems, and support decision-making in real-world autonomous scenarios. Alongside this direction, I use agentic AI to build research-assistance workflows for literature discovery, hypothesis generation, experiment planning, and manuscript iteration, while studying how researchers can collaborate effectively with agents.
 
-<div class='project-box' id='project-vlm-ad' markdown="1">
+My current research interests include:
 
-<div class="project-title"><span class="project-badge">2026-2027</span> VLM/VLA Exploration for End-to-End Autonomous Driving</div>
-
-<div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.9em;"> Tsinghua University × <a href="https://www.voyah.com.cn/">VOYAH</a> | Participant | Sep. 2025 - Apr. 2027 </div>
-
-*Focus:* Exploring how VLMs/VLAs can support end-to-end autonomous driving, especially the integration of perception, scene reasoning, decision-making, and planning.
-
-*Role:* I participate in model training and evaluation for end-to-end driving-oriented tasks.
-
-
-</div>
-
-
-<div class='project-box' id='project-v2x-cooperative-driving' markdown="1">
-
-<div class="project-title"><span class="project-badge">2023-2025</span> Cooperative Driving and V2X Spatial Intelligence</div>
-
-<div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.9em;"> Tsinghua University × <a href="https://www.t3caic.com/about/">CAIC</a> | Key Contributor | Nov. 2023 - Jun. 2025 </div>
-
-*Focus:* Cooperative perception and spatial alignment for connected autonomous driving systems.
-
-*Role:* I contributed to the construction and debugging of a V2X data acquisition platform, assisted real-vehicle cooperative perception data collection, participated in data cleaning and dataset construction, and led research on spatio-temporal alignment for multi-end sensing systems.
-
-*Outcomes:* <a href="#pub-tits2025">T-ITS 2025</a>, <a href="#pub-iros2024">IROS 2024 Oral</a>, <a href="#pub-iotj2025">IoT-J 2025</a>; patent <a href="https://patents.google.com/patent/CN119087408A/zh">CN119087408A</a>.
-
-</div>
-
-
-<div class='project-box' id='project-online-calibration' markdown="1">
-
-<div class="project-title"><span class="project-badge">2023</span> Online Multi-Sensor Calibration for Autonomous Vehicles</div>
-
-<div style="color: dimgray; font-size: 0.9em; margin-bottom: 0.9em;"> <a href="https://www.mogox.com/">MOGOX</a> | Key Contributor | Mar. 2023 - Nov. 2023 </div>
-
-*Focus:* Online extrinsic calibration for vehicle-mounted multi-sensor systems.
-
-*Role:* I led the development and scenario-specific tuning of the automatic calibration algorithm, assisted real-vehicle data collection and deployment, validated calibration accuracy and stability, and prepared technical quality-inspection reports.
-
-*Outcomes:* <a href="#pub-tim2023">T-IM 2023</a>; patent transfer and application deployment.
-
-</div>
-
+- **Spatial Intelligence:** 3D vision, reconstruction foundation models, and geometry-aware representations;
+- **V2X & Autonomous Driving:** cooperative perception, shared spatial reasoning, and connected autonomous systems;
+- **Spatial Alignment:** registration, calibration, localization, and spatio-temporal alignment;
+- **Agentic AI:** spatial reasoning for physical-world agents and human-agent research workflows.
 
 # 📝 Publications 
 

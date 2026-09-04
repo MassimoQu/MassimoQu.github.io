@@ -40,6 +40,37 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.current-position {
+    display: grid;
+    gap: .35rem;
+    margin: 0 0 1.5rem;
+    padding: 1.15rem 1.3rem;
+    border-left: 4px solid #00369f;
+    background: linear-gradient(110deg, rgba(0, 54, 159, .08), rgba(0, 54, 159, .015));
+
+    strong {
+        color: #17233b;
+        font-size: 1.18em;
+        letter-spacing: -.01em;
+    }
+
+    span {
+        display: block;
+    }
+
+    .current-position__label {
+        color: #00369f;
+        font-size: .72em;
+        font-weight: 700;
+        letter-spacing: .12em;
+    }
+
+    a {
+        text-decoration-thickness: 1px;
+        text-underline-offset: 2px;
+    }
+}
+
 .paper-box {
     display: flex;
     justify-content: left;
@@ -85,29 +116,6 @@
     }
 
 
-}
-
-.project-box {
-    border-bottom: 1px #efefef solid;
-    padding: 1.5em 0 1.5em 0;
-}
-
-.project-title {
-    align-items: center;
-    display: flex;
-    flex-wrap: wrap;
-    gap: .5rem;
-    font-weight: bold;
-    margin-bottom: .25em;
-}
-
-.project-badge {
-    background-color: #00369f;
-    color: white;
-    display: inline-block;
-    font-size: .75em;
-    font-weight: normal;
-    padding: .1rem .5rem;
 }
 
 $scroll_offset : 2em;
