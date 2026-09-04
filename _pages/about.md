@@ -52,7 +52,7 @@ Note: This work was my independent research project, conducted under the auspice
 Accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS, IF:8.4)
 
 
-<a href="https://arxiv.org/abs/2410.11008"><img src="https://img.shields.io/badge/arXiv-2410.11008-b31b1b?logo=arxiv" alt="arXiv" /></a> <a href="https://ieeexplore.ieee.org/document/11237211"><img src="https://img.shields.io/badge/IEEE-Paper-blue"></a> <a href="https://github.com/MassimoQu/v2i-calib"><img src="https://img.shields.io/github/stars/MassimoQu/v2i-calib?style=social" alt="" /> </a> 
+<a href="https://ieeexplore.ieee.org/document/11237211"><img src="https://img.shields.io/badge/IEEE-Paper-blue"></a> <a href="https://github.com/MassimoQu/v2i-calib"><img src="https://img.shields.io/github/stars/MassimoQu/v2i-calib?style=social" alt="" /> </a>
 
 *tl;dr:* We argue that current spatial alignment methods, which require an initial pose, are impractical for real-world Vehicle-to-Everything (V2X) cooperative perception. To address this limitation, we propose an online global registration algorithm that uses perception priors to align heterogeneous sensors in real-time.
 
