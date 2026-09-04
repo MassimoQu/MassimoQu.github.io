@@ -19,23 +19,23 @@ redirect_from:
 
 # 🥋 About me
 
-I am **Qianxin Qu**, a Ph.D. student starting in Fall 2026 at the <a href="https://www.hkust-gz.edu.cn/">Hong Kong University of Science and Technology (Guangzhou)</a>, advised by Prof. <a href="https://personal.hkust-gz.edu.cn/yingcui">Ying Cui</a>. My research lies at the intersection of **spatial intelligence** and **autonomous driving**.
+I am **Qianxin Qu**, a Ph.D. student starting in Fall 2026 at the <a href="https://www.hkust-gz.edu.cn/">Hong Kong University of Science and Technology (Guangzhou)</a>, advised by Prof. <a href="https://personal.hkust-gz.edu.cn/yingcui">Ying Cui</a>. My research lies at the intersection of **spatial intelligence** and **connected autonomous systems**.
 
 Before starting my Ph.D., I was a Research Assistant at the <a href="http://www.svm.tsinghua.edu.cn/">School of Vehicle and Mobility</a>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, mentored by Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Xinyu Zhang</a> and Prof. <a href="https://www.tsinghua.edu.cn/info/1166/93890.htm">Jun Li</a>. I earned my B.Eng. in Computer Science and Technology from <a href="https://www.cumtb.edu.cn/">China University of Mining and Technology (CUMTB)</a> in 2023, where I was guided by Prof. <a href="https://ai.cumtb.edu.cn/info/1053/1134.htm">Jiajing Li</a>. From 2022 to 2023, I also participated in joint training at Tsinghua University.
 
 # 🦄 Research
 
-My research focuses on spatial intelligence for multi-agent autonomous systems. I am interested in how connected vehicles and infrastructure can perceive, align, and reason about shared 3D environments. My previous work has centered on multi-agent traffic scenarios, especially V2X / CAV settings, where the key challenge is to turn heterogeneous observations into a reliable shared spatial representation. These projects have involved spatio-temporal alignment, calibration, localization, and cooperative perception.
-
-Looking ahead, I hope to explore how 3D vision, Visual Language Models (VLMs), and 3D reconstruction foundation models can support spatial intelligence for multi-agent autonomous systems.
-
-I also have a broader interest in Agentic AI, particularly spatial reasoning for physical-world agents and human-agent research workflows.
-
-My current research interests include:
+*tl;dr:* My current research interests include:
 
 - **Spatial Intelligence:** 3D vision, reconstruction foundation models, and geometry-aware representations;
-- **V2X & Autonomous Driving:** cooperative perception, connected autonomous systems;
+- **V2X & Connected Autonomous Systems:** cooperative perception and multi-agent coordination;
 - **Agentic AI:** spatial reasoning for physical-world agents and human-agent research workflows.
+
+My research focuses on spatial intelligence for connected autonomous systems. I am interested in how connected vehicles and infrastructure can perceive, align, and reason about shared 3D environments. My previous work has centered on multi-agent traffic scenarios, especially V2X / CAV settings, where the key challenge is to turn heterogeneous observations into a reliable shared spatial representation. These projects have involved spatio-temporal alignment, calibration, localization, and cooperative perception.
+
+Looking ahead, I hope to explore how 3D vision, Visual Language Models (VLMs), and 3D reconstruction foundation models can support spatial intelligence for connected autonomous systems.
+
+I also have a broader interest in Agentic AI, particularly spatial reasoning for physical-world agents and human-agent research workflows.
 
 # 📝 Publications 
 
@@ -49,7 +49,7 @@ My current research interests include:
 Note: This work was my independent research project, conducted under the auspices of <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Prof. Xinyu Zhang</a>. I handled the entire research process, from literature review and concept development to methodological refinement, benchmark experiments, manuscript writing, revision, and the coordination of real-vehicle tests. 
 </div>
 
-Accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS, JCR Q1, IF:8.4)
+Accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS, IF:8.4)
 
 
 <a href="https://arxiv.org/abs/2410.11008"><img src="https://img.shields.io/badge/arXiv-2410.11008-b31b1b?logo=arxiv" alt="arXiv" /></a> <a href="https://ieeexplore.ieee.org/document/11237211"><img src="https://img.shields.io/badge/IEEE-Paper-blue"></a> <a href="https://github.com/MassimoQu/v2i-calib"><img src="https://img.shields.io/github/stars/MassimoQu/v2i-calib?style=social" alt="" /> </a> 
@@ -95,7 +95,7 @@ Note: This survey was initiated by <a href="https://scholar.google.com/citations
 </div>
 
 
-IEEE Internet of Things Journal, 2025 (IoT-J, JCR Q1, IF:8.9)
+IEEE Internet of Things Journal, 2025 (IoT-J, IF:8.9)
 
 <a href="https://arxiv.org/abs/2405.10132"><img src="https://img.shields.io/badge/arXiv-2405.10132-b31b1b?logo=arxiv" alt="arXiv" /></a> <a href="https://ieeexplore.ieee.org/abstract/document/10993426/"><img src="https://img.shields.io/badge/IEEE-Paper-blue"></a> 
 
@@ -120,7 +120,7 @@ IEEE Internet of Things Journal, 2025 (IoT-J, JCR Q1, IF:8.9)
 Note: This research was initiated by <a href="https://scholar.google.com/citations?user=myxo9mQAAAAJ">Dr. Yijin Xiong</a> under the auspices of <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Prof. Xinyu Zhang</a>. It served as my undergraduate thesis; I proposed and improved the calibration algorithm and conducted the real-vehicle validation.
 </div>
 
-IEEE Transactions on Instrumentation and Measurement, 2023 (T-IM, JCR Q1, IF:5.9, Student First Author)
+IEEE Transactions on Instrumentation and Measurement, 2023 (T-IM, IF:5.9)
 
 <a href="assets/TechnicalReport_AutomaticOnlineCalibrationTechnologyBasedonMonocularCameraand3DLiDAR.pdf"><img src="https://img.shields.io/badge/CN-TechnicalReport-purple"/></a> <a href="https://ieeexplore.ieee.org/document/10352967"><img src="https://img.shields.io/badge/IEEE-Paper-blue?logo=paper"/></a> <a href="https://github.com/TH-Lion/Line-based-Automatic-Calibration-of-LiDAR-and-Cameras"><img src="https://img.shields.io/github/stars/TH-Lion/Line-based-Automatic-Calibration-of-LiDAR-and-Cameras?style=social" alt="" /> </a>  
 
@@ -147,7 +147,7 @@ Yijin Xiong, <strong>Xinyu Zhang†</strong>, Wenju Gao, Jing Liu, <strong style
 Note: This research was initiated by <a href="https://scholar.google.com/citations?user=myxo9mQAAAAJ">Dr. Yijin Xiong</a> under the auspices of <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Prof. Xinyu Zhang</a>. I was responsible for algorithm implementation and coordinating its real-world experiment.
 </div>
 
-IEEE Transactions on Automation Science and Engineering, 2024(T-ASE, JCR Q1, IF=6.4)
+IEEE Transactions on Automation Science and Engineering, 2024(T-ASE, IF=6.4)
 
 <a href="https://ieeexplore.ieee.org/abstract/document/10691946"><img src="https://img.shields.io/badge/IEEE-Paper-blue?logo=paper"/></a> 
 
