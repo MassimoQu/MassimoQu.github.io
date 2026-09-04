@@ -19,14 +19,7 @@ redirect_from:
 
 # 🥋 About me
 
-I am **Qianxin Qu**, a Ph.D. student in the **Internet of Things (IoT) Thrust** at the <a href="https://www.hkust-gz.edu.cn/">Hong Kong University of Science and Technology (Guangzhou)</a>, advised by Prof. <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/?id=146">Ying Cui (崔颖)</a>. I am based in Guangzhou, China, and work at the intersection of **spatial intelligence**, **V2X**, and **autonomous driving**.
-
-<div class="current-position" markdown="1">
-<span class="current-position__label">CURRENT POSITION</span>
-<strong>Ph.D. Student · IoT Thrust</strong>
-<span><a href="https://www.hkust-gz.edu.cn/">The Hong Kong University of Science and Technology (Guangzhou)</a></span>
-<span>Advised by Prof. <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/?id=146">Ying Cui (崔颖)</a></span>
-</div>
+I am **Qianxin Qu**, a Ph.D. student starting in Fall 2026 at the <a href="https://www.hkust-gz.edu.cn/">Hong Kong University of Science and Technology (Guangzhou)</a>, advised by Prof. <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/?id=146">Ying Cui</a>. My research workes at the intersection of **spatial intelligence** and **autonomous driving**.
 
 Before starting my Ph.D., I was a Research Assistant at the <a href="http://www.svm.tsinghua.edu.cn/">School of Vehicle and Mobility</a>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>, mentored by Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=0Q7pN4cAAAAJ">Xinyu Zhang</a> and Prof. <a href="https://www.tsinghua.edu.cn/info/1166/93890.htm">Jun Li</a>. I earned my B.Eng. in Computer Science and Technology from <a href="https://www.cumtb.edu.cn/">China University of Mining and Technology (CUMTB)</a> in 2023, where I was guided by Prof. <a href="https://ai.cumtb.edu.cn/info/1053/1134.htm">Jiajing Li</a>. From 2022 to 2023, I also participated in joint training at Tsinghua University.
 
